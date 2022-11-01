@@ -1,3 +1,4 @@
+![logo](https://github.com/hellooharendra/Banners/blob/main/ai%20gif.gif)
 <h1 align="center">💫About me</h1>
 <h3 align="center">A passionate Full Stack Web developer from India  🤭</h3>
 
