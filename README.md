@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/helloharendra" target="blank"><img src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=for-the-badge" alt="helloharendra" /></a> </p> 
 
-- 🌱 I’m currently <b> MCA Student at BBD University</b>
+- 🌱 I’m currently **MCA Student at BBD University.**
 
 - 🔖 Certified from Google in Python & from  IBM in Java.
 
 - 💬 Ask me about : **JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP**
 
-- 👨‍💻 All of my projects are available at [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/)
+- 👨‍💻 All of my projects are available at : [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/)
 
 - 📫 How to reach me : **harendraprajapati72@gmail.com**
 
