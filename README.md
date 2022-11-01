@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently <b> MCA Student at BBD University</b>
 
-- Certified from Google in Python & from  IBM in Java.
+- 🔖 Certified from Google in Python & from  IBM in Java.
 
 - 💬 Ask me about : **JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP**
 
