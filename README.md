@@ -5,7 +5,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/helloharendra" target="blank"><img src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=for-the-badge" alt="helloharendra" /></a> </p> 
-- 🌱 I’m currently <b> MCA Student at BBD University</b>
+-🌱 I’m currently <b> MCA Student at BBD University</b>
 
 - Certified from Google in Python & from  IBM in Java.
 
