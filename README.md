@@ -16,7 +16,7 @@
 
 - 📫 How to reach me : **harendraprajapati72@gmail.com**
 
-- 📄 Know about my experiences : [https://tanyafinance.com/harendraprajapati/cv/harendraPrajapatiCv.pdf](https://tanyafinance.com/harendraprajapati/cv/harendraPrajapatiCv.pdf)
+- 😍 Know about my experiences : [https://tanyafinance.com/harendraprajapati/cv/harendraPrajapatiCv.pdf](https://tanyafinance.com/harendraprajapati/cv/harendraPrajapatiCv.pdf)
 
 - ⚡ Fun fact : **Status Life Entertainment**
 
