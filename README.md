@@ -1,6 +1,6 @@
 ![MybackgroundImg](https://user-images.githubusercontent.com/78723011/204598918-96815c39-e998-4f03-a4fc-cf249c173cef.jpeg)
 
-![logo](https://github.com/hellooharendra/Banners/blob/main/harendraTemplate.jpg)
+<!-- ![logo](https://github.com/hellooharendra/Banners/blob/main/harendraTemplate.jpg) -->
 <h1 align="center">💫About me</h1>
 <h3 align="center">A passionate Full Stack Web developer from India  🤭</h3>
 
