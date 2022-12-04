@@ -13,8 +13,8 @@
 - 🌱 I’m  **MCA Student at BBD University.**
 - 🔖 Certified from **Google** in **Python & from  IBM** in **Java**.
 - 💬 Ask me about:**JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP**
-- 👨‍💻 All of my projects are available at : [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/)
-- 📫 How to reach me : **harendraprajapati72@gmail.com**
+<!-- - 👨‍💻 All of my projects are available at : [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/) -->
+<!-- - 📫 How to reach me : **harendraprajapati72@gmail.com** -->
 - 😍 Know about my experiences : [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/)
 - ⚡ Fun fact : **Status Life Entertainment**
 <h2 align="left">Socials:</h3>
