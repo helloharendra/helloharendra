@@ -16,7 +16,7 @@
 - 👨‍💻 Intern at **Digipodium** : 
 <!-- - 📫 How to reach me : **harendraprajapati72@gmail.com** -->
 - 😍 Know about my experiences 😎 [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/)
-- ⚡ Fun fact : **Status Life Entertainment** 👉 [](https://youtu.be/K-h2aerze1k)
+- ⚡ Fun fact : **Status Life Entertainment** 👉 [https://youtu.be/K-h2aerze1k](https://youtu.be/K-h2aerze1k)
 <h2 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/helloharendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="helloharendra" height="30" width="40" /></a>
