@@ -1,6 +1,7 @@
 ![MybackgroundImg](https://user-images.githubusercontent.com/78723011/204598918-96815c39-e998-4f03-a4fc-cf249c173cef.jpeg)
 
 <!-- ![logo](https://github.com/hellooharendra/Banners/blob/main/harendraTemplate.jpg) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hellooharendra&bg_color=090708&color=ff47f3&line=0ecc00&point=083cd9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h1 align="center">💫About me</h1>
 <h3 align="center">A passionate Full Stack Web developer from India  🤭</h3>
 
