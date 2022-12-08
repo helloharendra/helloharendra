@@ -19,7 +19,7 @@
 - 💬 Ask me about:**JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP**
 - 👨‍💻 Intern at **Digipodium** : 
 <!-- - 📫 How to reach me : **harendraprajapati72@gmail.com** -->
-- 😍 Know about my experiences 😎 [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/)
+<!-- - 😍 Know about my experiences 😎 [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/) -->
 - ⚡ Fun fact : **Status Life Entertainment** 👉 [https://youtu.be/K-h2aerze1k](https://youtu.be/K-h2aerze1k)
 <h2 align="left">Socials:</h3>
 <p align="left">
