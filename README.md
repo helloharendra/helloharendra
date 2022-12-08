@@ -1,6 +1,7 @@
 ![MybackgroundImg](https://user-images.githubusercontent.com/78723011/204598918-96815c39-e998-4f03-a4fc-cf249c173cef.jpeg)
 
 <!-- ![logo](https://github.com/hellooharendra/Banners/blob/main/harendraTemplate.jpg) -->
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hellooharendra&hide_border=true&theme=redical)
 
 <h1 align="center">💫About me</h1>
 <h3 align="center">A passionate Full Stack Web developer from India  🤭</h3>
