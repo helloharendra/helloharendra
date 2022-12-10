@@ -4,7 +4,7 @@
 
 
 <h1 align="center">💫About me</h1>
-<h3>Hi.. I am Harendra Prajapati </h3>
+<h3 align="center" >Hi.. I am Harendra Prajapati </h3>
 <h3 align="center">A passionate Full Stack Web developer from India  🤭</h3>
 
 </p>
