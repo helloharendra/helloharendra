@@ -40,7 +40,7 @@
 <h2 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helloharendra&show_icons=true&locale=en&layout=compact" alt="helloharendra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellooharendra&show_icons=true&locale=en" alt="hellooharendra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helloharendra&show_icons=true&locale=en" alt="helloharendra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helloharendra&" alt="helloharendraprajapati" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=helloharendra" alt="helloharendra" /></a> </p>
