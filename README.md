@@ -1,6 +1,5 @@
-![background]![template](https://user-images.githubusercontent.com/78723011/220724037-85cca59a-513d-4811-b9e6-1f8d99050410.jpg)
 
-
+![WhatsApp Image 2023-02-22 at 23 47 47](https://user-images.githubusercontent.com/78723011/220724390-3bf75749-7c99-4247-baa2-8d8204220d4a.jpeg)
 
 <!-- ![logo](https://github.com/helloharendra/Banners/blob/main/harendraTemplate.jpg) -->
 
