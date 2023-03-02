@@ -1,5 +1,11 @@
 ![template](https://user-images.githubusercontent.com/78723011/220724531-bf39c819-7bcc-4154-a5f9-18d9fca2cf77.jpg)
-# 💫 About Me:
+<h1 align="center">💫About me</h1>
+<h3 align="center" >Hi.. I am Harendra Prajapati </h3>
+<h3 align="center">A passionate Full Stack Web developer from India  🤭</h3>
+
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /> </p>
 🔭 I am currently working on AI and Data Science with the powers of Python in Data Science.<br>😍 Also i am proficient in Hybrid App development with Flutter.<br>🔖 Certified from Google in Python & from IBM in Java.<br>👯 I’m looking to collaborate on.<br>🤝 I’m looking for help with.<br>🌱 I’m currently learning.<br>💬 Ask me about Java, Python.<br>⚡ Fun fact at Status Life Entertainment.<br>
 
 
@@ -33,13 +39,7 @@
 <!-- ![logo](https://github.com/helloharendra/Banners/blob/main/harendraTemplate.jpg) -->
 
 
-<h1 align="center">💫About me</h1>
-<h3 align="center" >Hi.. I am Harendra Prajapati </h3>
-<h3 align="center">A passionate Full Stack Web developer from India  🤭</h3>
 
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/helloharendra" target="blank"><img src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=for-the-badge" alt="helloharendra" /></a> </p> 
 
