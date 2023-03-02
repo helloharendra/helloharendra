@@ -12,9 +12,9 @@
  🥰 Also working on AI and Data Science with the powers of Python in Data Science.<br>
  😍 Also i am proficient in Full Stack development.<br>
  📖 I’m currently learning **Flutter**.<br>
+ 🔖 Certified from **Google** in **Python** & from **IBM** in **Java**.<br>
  💬 Ask me about:**JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP**<br>
  ⚡ Fun fact : 👉 [Status Life Entertainment](https://youtu.be/K-h2aerze1k)<br>
- 🔖 Certified from **Google** in **Python** & from **IBM** in **Java**.<br>
  😎 Know about my experiences  [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/)<br>
 
 ## 🌐 Socials:
