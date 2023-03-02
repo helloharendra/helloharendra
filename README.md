@@ -4,17 +4,20 @@
 <h3 align="center">A passionate Full Stack Web developer from India  🤭</h3>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /> </p>
-- 🌱 I’m  **MCA Student at BBD University.**<br>
-- 🔖 Certified from **Google** in **Python & from  IBM** in **Java**.<br>
-📫 How to reach me : **harendraprajapati72@gmail.com** -->
-😍 Know about my experiences 😎 [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/) -->
-🔭 I am currently working on AI and Data Science with the powers of Python in Data Science.<br>
-😍 Also i am proficient in Full Stack development.<br>
-🔖 Certified from Google in Python & from IBM in Java.<br>
-🌱 I’m currently learning Flutter.<br>
+
+- 🌱 I’m  MCA Student at BBD University.<br>
+- - 🔭 I am currently working at IPH Technologies Pvt. Ltd.(https://iphtechnologies.com/)<br>
+- 🔭 I am currently working on AI and Data Science with the powers of Python in Data Science.<br>
+- 😍 Also i am proficient in Full Stack development.<br>
+- 🔖 Certified from Google in Python & from IBM in Java.<br>
+- 🌱 I’m currently learning Flutter.<br>
 - 💬 Ask me about:**JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP**<br>
 - ⚡ Fun fact at Status Life Entertainment.<br>
 - ⚡ Fun fact : **Status Life Entertainment** 👉 [https://youtu.be/K-h2aerze1k](https://youtu.be/K-h2aerze1k)
+- 🔖 Certified from Google in **Python & from  IBM** in **Java**.<br>
+📫 How to reach me : **harendraprajapati72@gmail.com** -->
+😍 Know about my experiences 😎 [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/) -->
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/helloharendra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helloharendra) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@helloharendra) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ghelloharendra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/helloharendra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC5H_q2PTvvdid3TpGxcw1ZQ) 
