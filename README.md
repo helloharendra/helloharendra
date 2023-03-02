@@ -9,14 +9,12 @@
 - 🔭 I am currently working at [IPH Technologies Pvt. Ltd.](https://iphtechnologies.com/)<br>
 - 🔭 Also working on AI and Data Science with the powers of Python in Data Science.<br>
 - 😍 Also i am proficient in Full Stack development.<br>
-- 🔖 Certified from **Google** in Python & from **IBM** in Java.<br>
 - 🌱 I’m currently learning **Flutter**.<br>
 - 💬 Ask me about:**JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP**<br>
-- ⚡ Fun fact at Status Life Entertainment.<br>
-- ⚡ Fun fact : **Status Life Entertainment** 👉 [https://youtu.be/K-h2aerze1k](https://youtu.be/K-h2aerze1k)
-- 🔖 Certified from Google in **Python & from  IBM** in **Java**.<br>
-📫 How to reach me : **harendraprajapati72@gmail.com** -->
-😍 Know about my experiences 😎 [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/) -->
+- ⚡ Fun fact : 👉 [Status Life Entertainment] (https://youtu.be/K-h2aerze1k)
+- 🔖 Certified from **Google** in Python & from **IBM** in Java.<br>
+- 📫 How to reach me : **harendraprajapati72@gmail.com** -->
+- 😎 Know about my experiences  [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/)
 
 
 ## 🌐 Socials:
