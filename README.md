@@ -2,11 +2,16 @@
 <h1 align="center">💫About me</h1>
 <h3 align="center" >Hi.. I am Harendra Prajapati </h3>
 <h3 align="center">A passionate Full Stack Web developer from India  🤭</h3>
-
 </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /> </p>
-🔭 I am currently working on AI and Data Science with the powers of Python in Data Science.<br>😍 Also i am proficient in Hybrid App development with Flutter.<br>🔖 Certified from Google in Python & from IBM in Java.<br><br>🌱 I’m currently learning Flutter.<br>💬 Ask me about Java, Python.<br>⚡ Fun fact at Status Life Entertainment.<br>
+- 🌱 I’m  **MCA Student at BBD University.**
+- 🔖 Certified from **Google** in **Python & from  IBM** in **Java**.
+- 💬 Ask me about:**JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP**
+
+<!-- - 📫 How to reach me : **harendraprajapati72@gmail.com** -->
+<!-- - 😍 Know about my experiences 😎 [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/) -->
+- ⚡ Fun fact : **Status Life Entertainment** 👉 [https://youtu.be/K-h2aerze1k](https://youtu.be/K-h2aerze1k)
+🔭 I am currently working on AI and Data Science with the powers of Python in Data Science.<br>😍 Also i am proficient in Hybrid App development with Flutter.<br>🔖 Certified from Google in Python & from IBM in Java.<br>🌱 I’m currently learning Flutter.<br>💬 Ask me about Java, Python.<br>⚡ Fun fact at Status Life Entertainment.<br>
 
 
 ## 🌐 Socials:
@@ -45,13 +50,7 @@
 
 <img align="right" alt="coding" width="400" border-radius:10px src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-- 🌱 I’m  **MCA Student at BBD University.**
-- 🔖 Certified from **Google** in **Python & from  IBM** in **Java**.
-- 💬 Ask me about:**JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP**
-- 👨‍💻 Intern at **Digipodium** : 
-<!-- - 📫 How to reach me : **harendraprajapati72@gmail.com** -->
-<!-- - 😍 Know about my experiences 😎 [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/) -->
-- ⚡ Fun fact : **Status Life Entertainment** 👉 [https://youtu.be/K-h2aerze1k](https://youtu.be/K-h2aerze1k)
+
 <h2 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/helloharendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="helloharendra" height="30" width="40" /></a>
