@@ -4,6 +4,7 @@
 <h3 align="center">A passionate Full Stack Web developer from India  🤭</h3>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /> </p>
+
 - 🎓 I’m  MCA Student at **BBD University**.<br>
 - 🔭 I am currently working at 👉 [IPH Technologies Pvt. Ltd.](https://iphtechnologies.com/)<br>
 - 🥰 Also working on AI and Data Science with the powers of Python in Data Science.<br>
