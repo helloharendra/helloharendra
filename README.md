@@ -68,12 +68,5 @@
 
 [![Harendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=helloharendra&bg_color=090708&color=ff47f3&line=0ecc00&point=083cd9&area=true&hide_border=true)](https://github.com/helloharendra/github-readme-activity-graph)
 
-<h2 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helloharendra&show_icons=true&locale=en&layout=compact" alt="helloharendra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helloharendra&show_icons=true&locale=en" alt="helloharendra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helloharendra&" alt="helloharendraprajapati" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=helloharendra" alt="helloharendra" /></a> </p>
 
 
