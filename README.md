@@ -6,10 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /> </p>
 - 🌱 I’m  **MCA Student at BBD University.**<br>
 - 🔖 Certified from **Google** in **Python & from  IBM** in **Java**.<br>
-<!-- - 📫 How to reach me : **harendraprajapati72@gmail.com** -->
-<!-- - 😍 Know about my experiences 😎 [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/) -->
+📫 How to reach me : **harendraprajapati72@gmail.com** -->
+😍 Know about my experiences 😎 [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/) -->
 🔭 I am currently working on AI and Data Science with the powers of Python in Data Science.<br>
-😍 Also i am proficient in Hybrid App development with Flutter.<br>
+😍 Also i am proficient in Full Stack development.<br>
 🔖 Certified from Google in Python & from IBM in Java.<br>
 🌱 I’m currently learning Flutter.<br>
 - 💬 Ask me about:**JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP**<br>
