@@ -3,7 +3,7 @@
 <h3 align="center" >Hi.. I am Harendra Prajapati </h3>
 <h3 align="center">A passionate Full Stack Web developer from India  🤭</h3>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /> 
+ align="left"> <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" 
 <p align="left"> <a href="https://twitter.com/helloharendra" target="blank"><img src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=for-the-badge" alt="helloharendra" /></a> </p> </p>
 
  🎓 I’m  MCA Student at **BBD University**.<br>
