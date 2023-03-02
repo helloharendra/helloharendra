@@ -6,6 +6,7 @@
 <p> <img src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=for-the-badge" alt="helloharendra">
 <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" />
 <a href="https://twitter.com/helloharendra" target="blank"></p><br>
+ 
  🎓 I’m  MCA Student at **BBD University**.<br>
  🔭 I am currently working at 👉 [IPH Technologies Pvt. Ltd.](https://iphtechnologies.com/)<br>
  🥰 Also working on AI and Data Science with the powers of Python in Data Science.<br>
@@ -14,7 +15,7 @@
  💬 Ask me about:**JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP**<br>
  ⚡ Fun fact : 👉 [Status Life Entertainment](https://youtu.be/K-h2aerze1k)<br>
  🔖 Certified from **Google** in **Python** & from **IBM** in **Java**.<br>
- 😎 Know about my experiences  [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/)
+ 😎 Know about my experiences  [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/)<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/helloharendra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helloharendra) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@helloharendra) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ghelloharendra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/helloharendra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC5H_q2PTvvdid3TpGxcw1ZQ) 
