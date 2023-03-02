@@ -3,7 +3,8 @@
 <h3 align="center" >Hi.. I am Harendra Prajapati </h3>
 <h3 align="center">A passionate Full Stack Web developer from India  🤭</h3>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" />
+[![](https://visitcount.itsvg.in/api?id=helloharendra&icon=4&color=0)](https://visitcount.itsvg.in) </p>
 
  🎓 I’m  MCA Student at **BBD University**.<br>
  🔭 I am currently working at 👉 [IPH Technologies Pvt. Ltd.](https://iphtechnologies.com/)<br>
@@ -39,7 +40,7 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=helloharendra&icon=4&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
