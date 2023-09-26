@@ -9,7 +9,7 @@
  <a href="https://twitter.com/helloharendra" target="blank">
  <img src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=for-the-badge" alt="helloharendra">
   <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="![giphy](https://github.com/helloharendra/login_with_otp_flutter/assets/78723011/078231b5-6411-4af9-a3bb-cb49daccb039)" width="350" title="hover text">
   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
 </p>
 </p><br>
