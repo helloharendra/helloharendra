@@ -8,9 +8,9 @@
   <p align="center">
   <p> <img src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=for-the-badge" alt="helloharendra">
 </p><br>
-<p style="text-align: center " >
+<!-- <div style="text-align: center " >
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/78723011/270774714-aae5ff58-cb47-42db-9bc9-b2f2f459924b.gif" width="350" alt="accessibility text"  />
-</p>
+</div> -->
  🎓 MCA ( DS & AI )  **BBD University Lucknow India**.<br>
  🔭 Working at 👉 [IPH Technologies Pvt. Ltd.](https://iphtechnologies.com/)<br>
  🥰 Also working on AI and Data Science with the powers of Python in Data Science.<br>
