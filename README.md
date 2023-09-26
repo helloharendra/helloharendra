@@ -8,6 +8,10 @@
 <p><img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /><br>
  <a href="https://twitter.com/helloharendra" target="blank">
  <img src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=for-the-badge" alt="helloharendra">
+  <p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 </p><br>
  
  🎓 MCA ( DS & AI )  **BBD University Lucknow India**.<br>
