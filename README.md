@@ -9,7 +9,7 @@
  <img src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=for-the-badge" alt="helloharendra">
 </p><br>
  
- 🎓 I’m  MCA Student at **BBD University**.<br>
+ 🎓 MCA(Data Science and Artificial Intelligence)  **BBD University Lucknow India**.<br>
  🔭 I am currently working at 👉 [IPH Technologies Pvt. Ltd.](https://iphtechnologies.com/)<br>
  🥰 Also working on AI and Data Science with the powers of Python in Data Science.<br>
  😍 Also i am proficient in Full Stack development.<br>
