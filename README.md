@@ -11,7 +11,7 @@
  <img src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=for-the-badge" alt="helloharendra">
   <p align="center">
   <img src="![giphy](https://github.com/helloharendra/login_with_otp_flutter/assets/78723011/078231b5-6411-4af9-a3bb-cb49daccb039)" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/78723011/270774714-aae5ff58-cb47-42db-9bc9-b2f2f459924b.gif" width="350" alt="accessibility text">
 </p>
 </p><br>
  
