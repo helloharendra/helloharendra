@@ -3,9 +3,6 @@
 <h3 align="center" >😎 Hello World 😎 </h3>
 <h3 align="center" >🤗 I am Harendra Prajapati 🤗 </h3>
 <h3 align="center">🤭 A passionate Full Stack developer from India 🤭</h3>
-<img src='![giphy](https://github.com/helloharendra/login_with_otp_flutter/assets/78723011/078231b5-6411-4af9-a3bb-cb49daccb039)'/>
-</p>![giphy](https://github.com/helloharendra/helloharendra/assets/78723011/aae5ff58-cb47-42db-9bc9-b2f2f459924b)
-
 <p><img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /><br>
  <a href="https://twitter.com/helloharendra" target="blank">
  <img src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=for-the-badge" alt="helloharendra">
