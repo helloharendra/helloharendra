@@ -7,9 +7,7 @@
  <a href="https://twitter.com/helloharendra" target="blank">
  <img src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=for-the-badge" alt="helloharendra">
   <p align="center">
-<div style="text-align: right;">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/78723011/270774714-aae5ff58-cb47-42db-9bc9-b2f2f459924b.gif" width="350" alt="accessibility text" />
-</div>
+
 </p>
 </p><br>
  
