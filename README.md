@@ -3,14 +3,14 @@
 <h3 align="center" >😎 Hello World 😎 </h3>
 <h3 align="center" >🤗 I am Harendra Prajapati 🤗 </h3>
 <h3 align="center">🤭 A passionate Full Stack developer from India 🤭</h3>
-<p><img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /><br>
+<!-- <p><img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /><br>
  <a href="https://twitter.com/helloharendra" target="blank">
-  <p align="center">
+  <p align="center"> -->
 
 </p>
 </p><br>
 <div style="text-align: right;">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/78723011/270774714-aae5ff58-cb47-42db-9bc9-b2f2f459924b.gif" width="150" alt="accessibility text" />
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/78723011/270774714-aae5ff58-cb47-42db-9bc9-b2f2f459924b.gif" width="350" alt="accessibility text" />
 </div>
  🎓 MCA ( DS & AI )  **BBD University Lucknow India**.<br>
  🔭 Working at 👉 [IPH Technologies Pvt. Ltd.](https://iphtechnologies.com/)<br>
