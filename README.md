@@ -7,7 +7,7 @@
  <a href="https://twitter.com/helloharendra" target="blank">
   <p align="center">
   <p> <img src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=for-the-badge" alt="helloharendra">
-</p><br>
+</p>
  🎓 MCA ( DS & AI )  **BBD University Lucknow India**.<br>
  🔭 Working at 👉 [IPH Technologies Pvt. Ltd.](https://iphtechnologies.com/)<br>
  🥰 Also working on AI and Data Science with the powers of Python in Data Science.<br>
