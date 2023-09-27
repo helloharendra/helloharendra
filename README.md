@@ -1,12 +1,10 @@
 <!-- ![template](https://user-images.githubusercontent.com/78723011/220724531-bf39c819-7bcc-4154-a5f9-18d9fca2cf77.jpg) -->
 <h1 align="center">💫About me</h1>
-<h3 align="center" > I am Harendra Prajapati 🤗 </h3>
-<h3 align="center"> A passionate Full Stack developer from India 🤭</h3>
 <p><img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /><br>
  <a href="https://twitter.com/helloharendra" target="blank">
   <p> <img  height='25' src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=flat" alt="helloharendra"/>
+    <p align="right"><img  src="https://github.com/helloharendra/login_with_otp_flutter/assets/78723011/21e2f7a8-7a69-43a3-af7f-5eed2a9e7660"/></p>
 </p>
-<!--   <p align="right"><img width='100' src="https://github.com/helloharendra/login_with_otp_flutter/assets/78723011/d831229d-3c7c-47af-9b3c-a17cc272016a"/></p> -->
   🎓 MCA ( DS & AI )  **BBD University Lucknow India**.<br>
  🔭 Working at 👉 [IPH Technologies Pvt. Ltd.](https://iphtechnologies.com/)<br>
  🥰 Also working on AI and Data Science with the powers of Python in Data Science.<br>
