@@ -5,14 +5,13 @@
   <p> <img  height='25' src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=flat" alt="helloharendra"/>
     <p align="right"><img  src="https://github.com/helloharendra/login_with_otp_flutter/assets/78723011/21e2f7a8-7a69-43a3-af7f-5eed2a9e7660"/></p>
 </p>
-  🎓 MCA ( DS & AI )  **BBD University Lucknow India** .<br>
- 🔭 Working at 👉 Monosage Pvt. Ltd. <br>
- 🥰 Also working on AI and Data Science with the powers of Python.<br>
- 😍 Also I am proficient in Full Stack development.<br>
- 📖 I’m currently learning Node Js.<br>
- 🔖 Certified from Google in Python & from IBM in Java.<br>
- 💬 Ask me about:<b> Flutter, JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP<b> <br>
- ⚡ Fun fact : 👉 [Status Life Entertainment](https://youtu.be/K-h2aerze1k)<br>
+  🎓 MCA ( DS & AI )  <b>BBD University Lucknow India<b> .<br>
+ 🔭 Working at 👉  <b>Monosage Pvt. Ltd. <b><br>
+ 🥰 Also working on <b> AI and Data Science with the powers of Python.<b><br>
+ 🔖 Certified from </a><b>Google in Python & from IBM in Java.<b><br>
+ 📖 I’m currently learning<b> Node Js.</b><br>
+ 💬 Ask me about:<b> Flutter, JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP</b>b> <br>
+ ⚡ Fun fact : 👉 <b>Status Life Entertainment</b>b> <br>
 😎 Know about my experiences  [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/)
 
 ## 🌐 Socials:
