@@ -5,10 +5,10 @@
   <p> <img  height='25' src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=flat" alt="helloharendra"/>
     <p align="right"><img  src="https://github.com/helloharendra/login_with_otp_flutter/assets/78723011/21e2f7a8-7a69-43a3-af7f-5eed2a9e7660"/></p>
 </p>
-  🎓 MCA ( DS & AI )  **BBD University Lucknow India**.<br>
- 🔭 Working at 👉 [IPH Technologies Pvt. Ltd.](https://iphtechnologies.com/)<br>
- 🥰 Also working on AI and Data Science with the powers of Python in Data Science.<br>
- 😍 Also i am proficient in Full Stack development.<br>
+  🎓 MCA ( DS & AI )  **BBD University Lucknow India** .<br>
+ 🔭 Working at 👉 Monosage Pvt. Ltd. <br>
+ 🥰 Also working on AI and Data Science with the powers of Python.<br>
+ 😍 Also I am proficient in Full Stack development.<br>
  📖 I’m currently learning **Flutter**.<br>
  🔖 Certified from **Google** in **Python** & from **IBM** in **Java**.<br>
  💬 Ask me about:**Flutter, JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP**<br>
