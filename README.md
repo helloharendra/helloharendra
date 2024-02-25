@@ -11,7 +11,7 @@
  🔖 Certified from </a><b>Google in Python & from IBM in Java.<b><br>
  📖 I’m currently learning<b> Node Js.</b><br>
  💬 Ask me about:<b> Flutter, JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP</b>b> <br>
- ⚡ Fun fact : 👉 <b>Status Life Entertainment</b>b> <br>
+ ⚡ Fun fact : 👉 <b>Status Life Entertainment <b> <br>
 😎 Know about my experiences  [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/)
 
 ## 🌐 Socials:
