@@ -9,9 +9,9 @@
  🔭 Working at 👉 Monosage Pvt. Ltd. <br>
  🥰 Also working on AI and Data Science with the powers of Python.<br>
  😍 Also I am proficient in Full Stack development.<br>
- 📖 I’m currently learning **Flutter**.<br>
- 🔖 Certified from **Google** in **Python** & from **IBM** in **Java**.<br>
- 💬 Ask me about:**Flutter, JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP**<br>
+ 📖 I’m currently learning Node Js.<br>
+ 🔖 Certified from Google in Python & from IBM in Java.<br>
+ 💬 Ask me about:<b> Flutter, JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP<b> <br>
  ⚡ Fun fact : 👉 [Status Life Entertainment](https://youtu.be/K-h2aerze1k)<br>
 😎 Know about my experiences  [https://tanyafinance.com/harendraprajapati/](https://tanyafinance.com/harendraprajapati/)
 
