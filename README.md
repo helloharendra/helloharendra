@@ -43,7 +43,9 @@
 
 
 ---
-
+## Achievements
+- ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Achieved-brightgreen)
+- Other badges...
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
