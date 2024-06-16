@@ -12,8 +12,7 @@
  📖 I’m currently learning<b> Node Js.</b><br>
  💬 Ask me about:<b> Flutter, JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP</b>b> <br>
  ⚡ Fun fact : 👉 <b>Status Life Entertainment <b> <br>
-😎 Know about my experiences:  [www.helloharendra.com](https://helloharendra.github.io/)
-
+😎 Know about my experiences:  [www.helloharendra.com](https://tanyafinance.com/harendraprajapati/)
   Visit us: [www.helloharendra.com](https://tanyafinance.com/harendraprajapati/)
 
 ## 🌐 Socials:
