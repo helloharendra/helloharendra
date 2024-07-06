@@ -5,13 +5,49 @@
   <p> <img  height='25' src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=flat" alt="helloharendra"/>
     <p align="right"><img  src="https://github.com/helloharendra/login_with_otp_flutter/assets/78723011/21e2f7a8-7a69-43a3-af7f-5eed2a9e7660"/></p>
 </p>
-  🎓 MCA ( DS & AI )  <b>BBD University Lucknow India<b> .<br>
+<!--   🎓 MCA ( DS & AI )  <b>BBD University Lucknow India<b> .<br>
  🔭 Working at 👉  Monosage Pvt. Ltd. <br>
  🥰 Also working on  AI and Data Science with the powers of Python.<br>
  🔖 Certified from </a>Google in Python & from IBM in Java.<br>
  📖 I’m currently learning Node Js.<br>
  💬 Ask me about: Flutter, JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP <br>
- ⚡ Fun fact : 👉 Status Life Entertainment  <br>
+ ⚡ Fun fact : 👉 Status Life Entertainment  <br> -->
+
+ ## About Me
+
+### Education
+- 🎓 **MCA in Data Science & AI** from [BBD University, Lucknow, India](https://www.bbdu.ac.in)
+
+### Current Role
+- 🔭 **Full Stack Developer** [Monosage Pvt Ltd, India](https://monosage.com/)
+
+### Expertise
+- 🥰 Working on AI and Data Science projects utilizing the power of Python.
+
+### Certifications
+- 🔖 **Google Certified** in Python
+- 🔖 **IBM Certified** in Java
+
+### Learning
+- 📖 Currently expanding my skill set with **Node.js**
+
+### Skills
+- 💬 Proficient in:
+  - Flutter
+  - Java
+  - Python
+  - HTML
+  - CSS
+  - JavaScript
+  - Bootstrap
+
+### Fun Fact
+- ⚡ Passionate about entertainment and status life
+
+---
+
+Feel free to ask me about any of the technologies listed above or anything related to my work and interests!
+
   
  😎 Know about my experiences:  [www.helloharendra.com](https://helloharendra.github.io/)
 
