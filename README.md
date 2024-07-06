@@ -39,17 +39,14 @@
   - Desktop App development
   - AI & ML Projects
 
+
 ### Fun Fact
-- ⚡ Passionate about entertainment and status life
-
----
-
-Feel free to ask me about any of the technologies listed above or anything related to my work and interests!
-
+- ⚡ [Status Life Entertainment](https://www.youtube.com/channel/UCMRyIghSiKYTKi2qCphlfnw)
   
+ 
  😎 Know about my experiences:  [www.helloharendra.com](https://helloharendra.github.io/)
 
-Visit us: [www.helloharendra.com](https://tanyafinance.com/harendraprajapati/)
+Visit us: [www.tanyafinance/helloharendra.com](https://tanyafinance.com/harendraprajapati/)
 
 
 ## 🌐 Socials:
@@ -80,8 +77,12 @@ Visit us: [www.helloharendra.com](https://tanyafinance.com/harendraprajapati/)
 
 
 
+
 ---
 
+Feel free to ask me about any of the technologies listed above or anything related to my work and interests!
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
