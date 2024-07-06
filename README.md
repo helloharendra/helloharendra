@@ -1,10 +1,10 @@
 <!-- ![template](https://user-images.githubusercontent.com/78723011/220724531-bf39c819-7bcc-4154-a5f9-18d9fca2cf77.jpg) -->
 <h1 align="center">💫About me</h1>
-<p><img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /><br>
+<!-- <p><img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /><br>
  <a href="https://twitter.com/helloharendra" target="blank">
   <p> <img  height='25' src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=flat" alt="helloharendra"/>
     <p align="right"><img  src="https://github.com/helloharendra/login_with_otp_flutter/assets/78723011/21e2f7a8-7a69-43a3-af7f-5eed2a9e7660"/></p>
-</p>
+</p> -->
 <!--   🎓 MCA ( DS & AI )  <b>BBD University Lucknow India<b> .<br>
  🔭 Working at 👉  Monosage Pvt. Ltd. <br>
  🥰 Also working on  AI and Data Science with the powers of Python.<br>
@@ -13,10 +13,10 @@
  💬 Ask me about: Flutter, JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP <br>
  ⚡ Fun fact : 👉 Status Life Entertainment  <br> -->
 
- ## About Me
+
 
 ### Education
-- 🎓 **MCA in Data Science & AI** from [BBD University, Lucknow, India](https://www.bbdu.ac.in)
+- 🎓 **MCA in Data Science & AI in collaboration with IBM** from [BBD University, Lucknow, India](https://www.bbdu.ac.in)
 
 ### Current Role
 - 🔭 **Full Stack Developer** [Monosage Pvt Ltd, India](https://monosage.com/)
@@ -33,13 +33,11 @@
 
 ### Skills
 - 💬 Proficient in:
-  - Flutter
-  - Java
-  - Python
-  - HTML
-  - CSS
-  - JavaScript
-  - Bootstrap
+  - Android App development
+  - iOS App development
+  - Web App development
+  - Desktop App development
+  - AI & ML Projects
 
 ### Fun Fact
 - ⚡ Passionate about entertainment and status life
