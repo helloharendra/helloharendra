@@ -1,43 +1,111 @@
-<!-- ![template](https://user-images.githubusercontent.com/78723011/220724531-bf39c819-7bcc-4154-a5f9-18d9fca2cf77.jpg) -->
-<h1 align="center">💫About me</h1>
-<!-- <p><img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /><br>
- <a href="https://twitter.com/helloharendra" target="blank">
-  <p> <img  height='25' src="https://img.shields.io/twitter/follow/helloharendra?logo=twitter&style=flat" alt="helloharendra"/>
-    <p align="right"><img  src="https://github.com/helloharendra/login_with_otp_flutter/assets/78723011/21e2f7a8-7a69-43a3-af7f-5eed2a9e7660"/></p>
-</p> -->
-<!--   🎓 MCA ( DS & AI )  <b>BBD University Lucknow India<b> .<br>
- 🔭 Working at 👉  Monosage Pvt. Ltd. <br>
- 🥰 Also working on  AI and Data Science with the powers of Python.<br>
- 🔖 Certified from </a>Google in Python & from IBM in Java.<br>
- 📖 I’m currently learning Node Js.<br>
- 💬 Ask me about: Flutter, JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP <br>
- ⚡ Fun fact : 👉 Status Life Entertainment  <br> -->
+<h1 align="center">Harendra Prajapati</h1>
+<p align="center">
+  <b>Software Engineer</b>
+</p>
 
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-profile-pic" alt="Harendra Prajapati" width="200" height="200">
+</div>
 
+<p align="center">
+  <a href="https://github.com/helloharendra">
+    <img src="https://img.shields.io/github/followers/helloharendra?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://www.linkedin.com/in/helloharendra/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/sponsors/helloharendra">
+    <img src="https://img.shields.io/badge/GitHub%20Sponsors-%F0%9F%A4%9D-green" alt="GitHub Sponsors">
+  </a>
+</p>
 
-### Education
-- 🎓 **MCA in Data Science & AI in collaboration with IBM** from [BBD University, Lucknow, India](https://www.bbdu.ac.in)
+---
 
-### Current Role
-- 🔭 **Full Stack Developer** [Monosage Pvt Ltd, India](https://monosage.com/)
+## About Me
 
-### Expertise
-- 🥰 Working on AI and Data Science projects utilizing the power of Python.
+<div align="left">
+  <img src="https://avatars.githubusercontent.com/u/your-profile-pic" alt="Harendra Prajapati" width="100" height="100" align="left" hspace="10">
+  <p>
+    🎓 <b>Education</b><br>
+    - MCA in Data Science & AI in collaboration with IBM from <a href="https://bbdu.ac.in/">BBD University, Lucknow, India</a>
+  </p>
+  <p>
+    🔨 <b>Current Role</b><br>
+    - Full Stack Developer at <a href="https://monosage.com">Monosage Pvt. Ltd, India</a>
+  </p>
+  <p>
+    🌟 <b>Expertise</b><br>
+    - Working on AI and Data Science projects utilizing the power of Python.
+  </p>
+  <p>
+    🛠️ <b>Skills</b><br>
+    - Programming Languages: Python, Java, Node.js<br>
+    - App Development: Android, iOS, Web, Desktop<br>
+    - Technologies: AI & ML, Flutter, Node.js
+  </p>
+  <p>
+    🎓 <b>Certifications</b><br>
+    - Google Certified in Python<br>
+    - IBM Certified in Java
+  </p>
+  <p>
+    📚 <b>Learning</b><br>
+    - Currently expanding my skill set with <b>Node.js</b>
+  </p>
+</div>
 
-### Certifications
-- 🔖 **Google Certified** in Python
-- 🔖 **IBM Certified** in Java
+---
 
-### Learning
-- 📖 Currently expanding my skill set with **Node.js**
+## Projects
 
-### Skills
-- 💬 Proficient in:
-  - Android App development
-  - iOS App development
-  - Web App development
-  - Desktop App development
-  - AI & ML Projects
+### [Job Portal Application](https://github.com/helloharendra/job-portal)
+A comprehensive job portal available on Android, iOS, web, and desktop.
+
+### [Amazon Clone App](https://github.com/helloharendra/amazon-clone)
+An Amazon clone app developed using Flutter and Node.js.
+
+---
+
+## Contact
+
+<p align="left">
+  <a href="mailto:harendraprajapati72@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harendraprajapati72%40gmail.com-red?style=flat&logo=gmail" alt="Email">
+  </a>
+  <a href="https://tanyafinance.com/harendraprajapati/">
+    <img src="https://img.shields.io/badge/Website-Tanya%20Finance-blue?style=flat&logo=google-chrome" alt="Website">
+  </a>
+  <a href="https://twitter.com/HelloHarendra">
+    <img src="https://img.shields.io/badge/Twitter-@HelloHarendra-blue?style=flat&logo=twitter" alt="Twitter">
+  </a>
+</p>
+
+---
+
+## Fun Fact
+
+I love exploring new technologies and working on innovative projects that make a difference.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=helloharendra&show_icons=true&theme=radical" alt="Harendra's GitHub Stats">
+</p>
+
+---
+
+## Support Me
+
+If you like my work and would like to support me, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/helloharendra).
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=helloharendra&style=flat-square&color=blue" alt="Profile views">
+</p>
+
 
 
 ### Fun Fact
