@@ -3,10 +3,6 @@
   <b>Software Engineer</b>
 </p>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-profile-pic" alt="Harendra Prajapati" width="200" height="200">
-</div>
-
 <p align="center">
   <a href="https://github.com/helloharendra">
     <img src="https://img.shields.io/github/followers/helloharendra?label=Follow&style=social" alt="GitHub followers">
@@ -23,36 +19,26 @@
 
 ## About Me
 
-<div align="left">
-  <img src="https://avatars.githubusercontent.com/u/your-profile-pic" alt="Harendra Prajapati" width="100" height="100" align="left" hspace="10">
-  <p>
-    🎓 <b>Education</b><br>
-    - MCA in Data Science & AI in collaboration with IBM from <a href="https://bbdu.ac.in/">BBD University, Lucknow, India</a>
-  </p>
-  <p>
-    🔨 <b>Current Role</b><br>
-    - Full Stack Developer at <a href="https://monosage.com">Monosage Pvt. Ltd, India</a>
-  </p>
-  <p>
-    🌟 <b>Expertise</b><br>
-    - Working on AI and Data Science projects utilizing the power of Python.
-  </p>
-  <p>
-    🛠️ <b>Skills</b><br>
-    - Programming Languages: Python, Java, Node.js<br>
-    - App Development: Android, iOS, Web, Desktop<br>
-    - Technologies: AI & ML, Flutter, Node.js
-  </p>
-  <p>
-    🎓 <b>Certifications</b><br>
-    - Google Certified in Python<br>
-    - IBM Certified in Java
-  </p>
-  <p>
-    📚 <b>Learning</b><br>
-    - Currently expanding my skill set with <b>Node.js</b>
-  </p>
-</div>
+### Education
+- 🎓 **MCA in Data Science & AI** in collaboration with IBM from [BBD University, Lucknow, India](https://bbdu.ac.in/)
+
+### Current Role
+- 🔨 **Full Stack Developer** at [Monosage Pvt. Ltd, India](https://monosage.com)
+
+### Expertise
+- 🌟 Working on AI and Data Science projects utilizing the power of Python.
+
+### Skills
+- **Programming Languages**: Dart,Python, Java, Node.js
+- **App Development**: Android, iOS, Web, Desktop
+- **Technologies**: AI & ML, Flutter, Node.js,Django
+
+### Certifications
+- 🎓 Google Certified in Python
+- 🎓 IBM Certified in Java
+
+### Learning
+- 📚 Currently expanding my skill set with **Node.js**
 
 ---
 
@@ -68,7 +54,7 @@ An Amazon clone app developed using Flutter and Node.js.
 
 ## Contact
 
-<p align="left">
+<p align="center">
   <a href="mailto:harendraprajapati72@gmail.com">
     <img src="https://img.shields.io/badge/Email-harendraprajapati72%40gmail.com-red?style=flat&logo=gmail" alt="Email">
   </a>
@@ -81,6 +67,31 @@ An Amazon clone app developed using Flutter and Node.js.
 </p>
 
 ---
+
+## Fun Fact
+
+I love exploring new technologies and working on innovative projects that make a difference.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=helloharendra&show_icons=true&theme=radical" alt="Harendra's GitHub Stats">
+</p>
+
+---
+
+## Support Me
+
+If you like my work and would like to support me, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/helloharendra).
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=helloharendra&style=flat-square&color=blue" alt="Profile views">
+</p>
+
 
 ## Fun Fact
 
