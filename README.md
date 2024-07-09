@@ -5,7 +5,8 @@
 
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /><br>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /> 
+  <br>
 <p align="center">
   <a href="https://instagram.com/helloharendra">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
@@ -24,6 +25,10 @@
   </a>
   <a href="https://youtu.be/pzI5TY67gew?si=a9bOXOjfcusRj2wi">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
+  </a>
+
+   <a href="https://github.com/sponsors/helloharendra">
+    <img src="https://img.shields.io/badge/GitHub%20Sponsors-%F0%9F%A4%9D-green" alt="GitHub Sponsors">
   </a>
 </p>
 
