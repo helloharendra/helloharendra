@@ -3,15 +3,27 @@
   <b>Software Engineer</b>
 </p>
 
+
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /><br>
 <p align="center">
-  <a href="https://github.com/helloharendra">
-    <img src="https://img.shields.io/github/followers/helloharendra?label=Follow&style=social" alt="GitHub followers">
+  <a href="https://instagram.com/helloharendra">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/helloharendra/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  <a href="https://linkedin.com/in/helloharendra">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/sponsors/helloharendra">
-    <img src="https://img.shields.io/badge/GitHub%20Sponsors-%F0%9F%A4%9D-green" alt="GitHub Sponsors">
+  <a href="https://medium.com/@helloharendra">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://stackoverflow.com/users/helloharendra">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+  </a>
+  <a href="https://twitter.com/helloharendra">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://youtu.be/pzI5TY67gew?si=a9bOXOjfcusRj2wi">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
   </a>
 </p>
 
@@ -29,9 +41,9 @@
 - 🌟 Working on AI and Data Science projects utilizing the power of Python.
 
 ### Skills
-- **Programming Languages**: Dart,Python, Java, Node.js
+- **Programming Languages**: Python, Java, Node.js
 - **App Development**: Android, iOS, Web, Desktop
-- **Technologies**: AI & ML, Flutter, Node.js,Django
+- **Technologies**: AI & ML, Flutter, Node.js
 
 ### Certifications
 - 🎓 Google Certified in Python
@@ -42,82 +54,6 @@
 
 ---
 
-## Projects
-
-### [Job Portal Application](https://github.com/helloharendra/job-portal)
-A comprehensive job portal available on Android, iOS, web, and desktop.
-
-### [Amazon Clone App](https://github.com/helloharendra/amazon-clone)
-An Amazon clone app developed using Flutter and Node.js.
-
----
-
-## Contact
-
-<p align="center">
-  <a href="mailto:harendraprajapati72@gmail.com">
-    <img src="https://img.shields.io/badge/Email-harendraprajapati72%40gmail.com-red?style=flat&logo=gmail" alt="Email">
-  </a>
-  <a href="https://tanyafinance.com/harendraprajapati/">
-    <img src="https://img.shields.io/badge/Website-Tanya%20Finance-blue?style=flat&logo=google-chrome" alt="Website">
-  </a>
-  <a href="https://twitter.com/HelloHarendra">
-    <img src="https://img.shields.io/badge/Twitter-@HelloHarendra-blue?style=flat&logo=twitter" alt="Twitter">
-  </a>
-</p>
-
----
-
-## Fun Fact
-
-I love exploring new technologies and working on innovative projects that make a difference.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helloharendra&show_icons=true&theme=radical" alt="Harendra's GitHub Stats">
-</p>
-
----
-
-## Support Me
-
-If you like my work and would like to support me, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/helloharendra).
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=helloharendra&style=flat-square&color=blue" alt="Profile views">
-</p>
-
-
-## Fun Fact
-
-I love exploring new technologies and working on innovative projects that make a difference.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helloharendra&show_icons=true&theme=radical" alt="Harendra's GitHub Stats">
-</p>
-
----
-
-## Support Me
-
-If you like my work and would like to support me, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/helloharendra).
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=helloharendra&style=flat-square&color=blue" alt="Profile views">
-</p>
-
-
 
 ### Fun Fact
 - ⚡ [Status Life Entertainment](https://www.youtube.com/channel/UCMRyIghSiKYTKi2qCphlfnw)
@@ -127,9 +63,9 @@ If you like my work and would like to support me, consider sponsoring me on [Git
 
 Visit us: [www.tanyafinance/helloharendra.com](https://tanyafinance.com/harendraprajapati/)
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/helloharendra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helloharendra) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@helloharendra) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/helloharendra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/helloharendra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/pzI5TY67gew?si=a9bOXOjfcusRj2wi) 
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -162,6 +98,16 @@ Visit us: [www.tanyafinance/helloharendra.com](https://tanyafinance.com/harendra
 Feel free to ask me about any of the technologies listed above or anything related to my work and interests!
 
 ---
+
+I love exploring new technologies and working on innovative projects that make a difference.
+
+---
+
+## Support Me
+
+If you like my work and would like to support me, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/helloharendra).
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
