@@ -1,13 +1,5 @@
-<h1 align="center">Harendra Prajapati</h1>
-<p align="center">
-  <b>Software Engineer</b>
-</p>
 
-
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /> 
-  <br>
-<p align="center">
+  
   <a href="https://instagram.com/helloharendra">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
@@ -30,47 +22,65 @@
    <a href="https://github.com/sponsors/helloharendra">
     <img src="https://img.shields.io/badge/GitHub%20Sponsors-%F0%9F%A4%9D-green" alt="GitHub Sponsors">
   </a>
-</p>
-
----
-
-## About Me
-
-### Education
-- 🎓 **MCA in Data Science & AI** in collaboration with IBM from [BBD University, Lucknow, India](https://bbdu.ac.in/)
-
-### Current Role
-- 🔨 **Full Stack Developer** at [Monosage Pvt. Ltd, India](https://monosage.com)
-
-### Expertise
-- 🌟 Working on AI and Data Science projects utilizing the power of Python.
-
-### Skills
-- **Programming Languages**: Python, Java, Node.js
-- **App Development**: Android, iOS, Web, Desktop
-- **Technologies**: AI & ML, Flutter, Node.js
-
-### Certifications
-- 🎓 Google Certified in Python
-- 🎓 IBM Certified in Java
-
-### Learning
-- 📚 Currently expanding my skill set with **Node.js**
-
----
-
-
-### Fun Fact
-- ⚡ [Status Life Entertainment](https://www.youtube.com/channel/UCMRyIghSiKYTKi2qCphlfnw)
   
- 
- 😎 Know about my experiences:  [www.helloharendra.com](https://helloharendra.github.io/)
-
-Visit us: [www.tanyafinance/helloharendra.com](https://tanyafinance.com/harendraprajapati/)
-
 ---
 
 
+
+  
+# 🧑‍💻 **Harendra Prajapati**  <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /> 
+
+
+### **Software Engineer | Full Stack Developer | AI & Data Science Enthusiast**
+
+Welcome to my GitHub profile! I am a **Software Engineer** with a strong focus on **Full Stack Development** and **Artificial Intelligence**. I am passionate about creating scalable, innovative solutions and working on projects that push the boundaries of technology.
+
+---
+
+## 🔍 **About Me**
+- 🎓 **MCA in Data Science & AI** from [BBD University, Lucknow, India](https://bbdu.ac.in/) in collaboration with **IBM**
+- 🔨 **Full Stack Developer** at [Monosage Pvt. Ltd, India](https://monosage.com)
+- 💻 Passionate about **AI, Data Science**, and building **cross-platform applications**
+- 🌟 Strong experience in **Python**, **Java**, **Node.js**, and **Flutter** for developing modern web, mobile, and desktop applications.
+
+---
+
+## 🚀 **Skills & Expertise**
+### **Programming Languages & Frameworks**
+- **Languages**: Python, Java, JavaScript, Node.js, C++, Dart
+- **Web Development**: HTML5, CSS3, JavaScript, React.js, Node.js, Express.js
+- **Mobile Development**: Flutter (Android, iOS), React Native
+- **Backend**: Node.js, Express.js, Flask,FastAPI
+- **AI & Machine Learning**: TensorFlow, Keras, PyTorch, scikit-learn, Pandas, NumPy
+- **Database**: MySQL,PostgreSQL ,MongoDB, SQLite, Oracle
+- **Cloud & DevOps**: Firebase, Docker, AWS (S3, EC2, Lambda)
+- **Other Tools**: Git, Apache, Maven, Jupyter, Anaconda, Apache Ant
+
+### **Technologies**
+- **AI/ML**: TensorFlow, Keras, scikit-learn, Pandas, NumPy
+- **Frontend**: React.js, HTML5, CSS3, Bootstrap
+- **Backend**: Node.js, Express.js, Flask, FastAPI
+- **Mobile**: Flutter, React Native
+- **Databases**: MongoDB, MySQL, SQLite
+- **Cloud**: Firebase, AWS (S3, EC2)
+
+---
+
+## 🎯 **Current Focus**
+- Building scalable web and mobile applications with modern tech stacks (React, Node.js, Flutter).
+- Developing AI and Data Science solutions, particularly in Python using libraries like TensorFlow and scikit-learn.
+---
+
+## 📚 **Certifications**
+- **Google Certified in Python**
+- **IBM Certified in Java**
+
+---
+
+## 🌱 **Learning & Growth**
+At the moment, I'm focused on deepening my expertise in Artificial Intelligence (AI) & Machine Learning (ML), with a particular emphasis on advanced model development and deployment. Additionally, I'm diving into FastAPI to enhance my skills in building high-performance, asynchronous backends for scalable applications.
+
+---
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
