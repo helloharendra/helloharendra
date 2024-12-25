@@ -27,58 +27,58 @@
 
 
 
-  
-# 🧑‍💻 **Harendra Prajapati**  <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" /> 
-
+# 🧑‍💻 **Harendra Prajapati**  <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" />
 
 ### **Software Engineer | Full Stack Developer | AI & Data Science Enthusiast**
 
-Welcome to my GitHub profile! I am a **Software Engineer** with a strong focus on **Full Stack Development** and **Artificial Intelligence**. I am passionate about creating scalable, innovative solutions and working on projects that push the boundaries of technology.
+Welcome to my GitHub profile! I'm a **Software Engineer** with a strong focus on **Full Stack Development**, **Artificial Intelligence**, and **Data Science**. I am passionate about creating scalable, innovative solutions and working on projects that push the boundaries of technology.
 
 ---
 
 ## 🔍 **About Me**
-- 🎓 **MCA in Data Science & AI** from [BBD University, Lucknow, India](https://bbdu.ac.in/) in collaboration with **IBM**
-- 🔨 **Full Stack Developer** at [Monosage Pvt. Ltd, India](https://monosage.com)
-- 💻 Passionate about **AI, Data Science**, and building **cross-platform applications**
-- 🌟 Strong experience in **Python**, **Java**, **Node.js**, and **Flutter** for developing modern web, mobile, and desktop applications.
+- 🎓 **MCA in Data Science & AI** from [BBD University, Lucknow, India](https://bbdu.ac.in/) in collaboration with **IBM**  
+- 🔨 **Full Stack Developer** at [Monosage Pvt. Ltd, India](https://monosage.com)  
+- 💻 Passionate about **AI, Data Science**, and building **cross-platform applications**  
+- 🌟 Experienced in **Python**, **Java**, **Node.js**, **Flutter**, and a variety of modern technologies for developing web, mobile, and desktop applications  
 
 ---
 
 ## 🚀 **Skills & Expertise**
 ### **Programming Languages & Frameworks**
-- **Languages**: Python, Java, JavaScript, Node.js, C++, Dart
-- **Web Development**: HTML5, CSS3, JavaScript, React.js, Node.js, Express.js
-- **Mobile Development**: Flutter (Android, iOS), React Native
-- **Backend**: Node.js, Express.js, Flask,FastAPI
-- **AI & Machine Learning**: TensorFlow, Keras, PyTorch, scikit-learn, Pandas, NumPy
-- **Database**: MySQL,PostgreSQL ,MongoDB, SQLite, Oracle
-- **Cloud & DevOps**: Firebase, Docker, AWS (S3, EC2, Lambda)
-- **Other Tools**: Git, Apache, Maven, Jupyter, Anaconda, Apache Ant
+- **Languages**: Python, Java, JavaScript, Node.js, C++, Dart  
+- **Web Development**: HTML5, CSS3, JavaScript, React.js, Node.js, Express.js  
+- **Mobile Development**: Flutter (Android, iOS), React Native  
+- **Backend Development**: Node.js, Express.js, Flask, FastAPI  
+- **AI & Machine Learning**: TensorFlow, Keras, PyTorch, scikit-learn, Pandas, NumPy  
+- **Databases**: MySQL, PostgreSQL, MongoDB, SQLite, Oracle  
+- **Cloud & DevOps**: Firebase, Docker, AWS (S3, EC2, Lambda)  
+- **Tools & Platforms**: Git, Apache, Maven, Jupyter, Anaconda, Apache Ant  
 
-### **Technologies**
-- **AI/ML**: TensorFlow, Keras, scikit-learn, Pandas, NumPy
-- **Frontend**: React.js, HTML5, CSS3, Bootstrap
-- **Backend**: Node.js, Express.js, Flask, FastAPI
-- **Mobile**: Flutter, React Native
-- **Databases**: MongoDB, MySQL, SQLite
-- **Cloud**: Firebase, AWS (S3, EC2)
+### **Technologies & Tools**
+- **AI/ML**: TensorFlow, Keras, scikit-learn, Pandas, NumPy  
+- **Frontend**: React.js, HTML5, CSS3, Bootstrap  
+- **Backend**: Node.js, Express.js, Flask, FastAPI  
+- **Mobile**: Flutter, React Native  
+- **Databases**: MongoDB, MySQL, SQLite  
+- **Cloud**: Firebase, AWS (S3, EC2, Lambda)
 
 ---
 
 ## 🎯 **Current Focus**
-- Building scalable web and mobile applications with modern tech stacks (React, Node.js, Flutter).
-- Developing AI and Data Science solutions, particularly in Python using libraries like TensorFlow and scikit-learn.
+- Developing **scalable web and mobile applications** using modern tech stacks like **React.js**, **Node.js**, and **Flutter**.  
+- Focusing on **AI and Data Science** solutions, particularly in **model development and deployment** using **Python** and frameworks such as **TensorFlow**, **Keras**, and **scikit-learn**.  
+- Exploring **FastAPI** for building high-performance, asynchronous backends.
+
 ---
 
 ## 📚 **Certifications**
-- **Google Certified in Python**
+- **Google Certified in Python**  
 - **IBM Certified in Java**
 
 ---
 
 ## 🌱 **Learning & Growth**
-At the moment, I'm focused on deepening my expertise in Artificial Intelligence (AI) & Machine Learning (ML), with a particular emphasis on advanced model development and deployment. Additionally, I'm diving into FastAPI to enhance my skills in building high-performance, asynchronous backends for scalable applications.
+Currently, I am deepening my knowledge in **AI/ML**, specifically around **advanced model development, optimization**, and **deployment**. I am also focusing on **FastAPI** to improve my skills in building high-performance, asynchronous backends that can handle real-time data and large-scale applications.  
 
 ---
 
@@ -105,23 +105,17 @@ At the moment, I'm focused on deepening my expertise in Artificial Intelligence 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-
-
+### Support Me
+If you like my work and would like to support me, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/helloharendra).
 
 ---
 
 Feel free to ask me about any of the technologies listed above or anything related to my work and interests!
 
 ---
-
 I love exploring new technologies and working on innovative projects that make a difference.
 
 ---
-
-## Support Me
-
-If you like my work and would like to support me, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/helloharendra).
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
