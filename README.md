@@ -100,10 +100,10 @@ Currently, I am deepening my knowledge in **AI/ML**, specifically around **advan
 ![](https://github-profile-trophy.vercel.app/?username=helloharendra&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=helloharendra)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- [![](https://gtce.itsvg.in/api?username=helloharendra)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
 
 ### Support Me
 If you like my work and would like to support me, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/helloharendra).
