@@ -98,9 +98,9 @@ Currently, I am deepening my knowledge in **AI/ML**, specifically around **advan
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=helloharendra&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
+<!-- 
 ## 🐦 Latest Tweet
-<!-- [![](https://gtce.itsvg.in/api?username=helloharendra)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=helloharendra)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
@@ -112,10 +112,7 @@ If you like my work and would like to support me, consider sponsoring me on [Git
 
 Feel free to ask me about any of the technologies listed above or anything related to my work and interests!
 
----
-I love exploring new technologies and working on innovative projects that make a difference.
 
----
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
