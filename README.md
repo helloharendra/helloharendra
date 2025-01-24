@@ -105,6 +105,8 @@ Currently, I am deepening my knowledge in **AI/ML**, specifically around **advan
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
 
+---
+
 ### Support Me
 If you like my work and would like to support me, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/helloharendra).
 
