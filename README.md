@@ -27,7 +27,7 @@
 
 ### Full-Stack Software Engineer | Flutter & Backend Specialist | Scalable Product Builder
 
-I’m a **Full-Stack Software Engineer with 3+ years of hands-on experience** building **real-world, production-ready applications** across **food delivery, logistics, booking systems, streaming platforms, and business tools**.
+I’m a **Full-Stack Software Engineer with 5+ years of hands-on experience** building **real-world, production-ready applications** across **food delivery, logistics, booking systems, streaming platforms, and business tools**.
 
 I specialize in **Flutter**, **FastAPI**, **Node.js**, and modern web technologies, working **end-to-end** from architecture to deployment with a strong focus on **scalability, performance, and clean code**.
 
