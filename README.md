@@ -29,7 +29,7 @@
 
 # 🧑‍💻 **Harendra Prajapati**  <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" alt="helloharendra" />
 
-### **Software Engineer | Full Stack Developer | AI & Data Science Enthusiast**
+### **Full-Stack Software Engineer | Flutter & Backend Specialist | Scalable Product Builder**
 
 Welcome to my GitHub profile! I'm a **Software Engineer** with a strong focus on **Full Stack Development**, **Artificial Intelligence**, and **Data Science**. I am passionate about creating scalable, innovative solutions and working on projects that push the boundaries of technology.
 
