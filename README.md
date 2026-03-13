@@ -25,7 +25,7 @@
 # 🧑‍💻 Harendra Prajapati  
 <img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20views&color=0e75b6&style=flat" />
 
-### Full-Stack Software Engineer | Flutter & Backend Specialist | Scalable Product Builder
+### Full-Stack Software Engineer | Flutter, FastAPI, React, Python, Node,js | Building Scalable Mobile & SaaS Platforms
 
 I’m a **Full-Stack Software Engineer with 5+ years of hands-on experience** building **real-world, production-ready applications** across **food delivery, logistics, booking systems, streaming platforms, and business tools**.
 
