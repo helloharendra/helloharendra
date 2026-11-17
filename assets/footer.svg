@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" fill="none" role="img" aria-label="Let's build your next product. WhatsApp +91 79913 27022, email harendraprajapati72@gmail.com, website nayaprayog.com">
+  <style>
+    * { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .orb { transform-box: fill-box; transform-origin: center; animation: float 14s ease-in-out infinite alternate; }
+    .o2 { animation-duration: 17s; animation-delay: -6s; }
+    @keyframes float { 0% { transform: translate(0, 0) scale(1); } 50% { transform: translate(60px, 20px) scale(1.15); } 100% { transform: translate(-40px, -20px) scale(.95); } }
+    .wave1 { animation: wave 9s linear infinite; }
+    .wave2 { animation: wave 14s linear infinite reverse; }
+    @keyframes wave { from { transform: translateX(0); } to { transform: translateX(-1000px); } }
+    .up { opacity: 0; animation: up .9s cubic-bezier(.2, .8, .2, 1) forwards; }
+    @keyframes up { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+    .d1 { animation-delay: .1s; } .d2 { animation-delay: .3s; } .d3 { animation-delay: .5s; } .d4 { animation-delay: .7s; }
+    .ring { transform-box: fill-box; transform-origin: center; animation: ring 2s ease-out infinite; }
+    @keyframes ring { 0% { transform: scale(1); opacity: .9; } 100% { transform: scale(2.8); opacity: 0; } }
+    .shine { animation: shine 7s ease-in-out 1.5s infinite; }
+    @keyframes shine { 0% { transform: translateX(-400px); } 45%, 100% { transform: translateX(1400px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; transform: none !important; } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1e1b4b"/><stop offset=".5" stop-color="#312e81"/><stop offset="1" stop-color="#4c1d95"/>
+    </linearGradient>
+    <radialGradient id="g1"><stop offset="0" stop-color="#ec4899" stop-opacity=".45"/><stop offset="1" stop-color="#ec4899" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2"><stop offset="0" stop-color="#06b6d4" stop-opacity=".4"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
+    <linearGradient id="streak" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="card"><rect width="1000" height="300" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="300" fill="url(#bg)"/>
+    <circle class="orb" cx="150" cy="80" r="220" fill="url(#g1)"/>
+    <circle class="orb o2" cx="860" cy="120" r="230" fill="url(#g2)"/>
+    <rect class="shine" x="0" y="-50" width="260" height="400" fill="url(#streak)" transform="skewX(-20)"/>
+    <g class="wave2" opacity=".35">
+      <path d="M0 250 C 125 225 250 275 375 250 S 625 225 750 250 S 875 275 1000 250 S 1125 225 1250 250 S 1500 275 1625 250 S 1875 225 2000 250 V300 H0Z" fill="#6366f1"/>
+    </g>
+    <g class="wave1" opacity=".55">
+      <path d="M0 268 C 125 250 250 286 375 268 S 625 250 750 268 S 875 286 1000 268 S 1125 250 1250 268 S 1500 286 1625 268 S 1875 250 2000 268 V300 H0Z" fill="#0b1020"/>
+    </g>
+    <rect x=".5" y=".5" width="999" height="299" rx="23.5" stroke="#ffffff" stroke-opacity=".1"/>
+  </g>
+
+  <g class="up d1">
+    <rect x="398" y="34" width="204" height="30" rx="15" fill="#10b981" fill-opacity=".15" stroke="#34d399" stroke-opacity=".5"/>
+    <circle class="ring" cx="420" cy="49" r="4.5" fill="#34d399"/>
+    <circle cx="420" cy="49" r="4.5" fill="#34d399"/>
+    <text x="508" y="54" text-anchor="middle" fill="#a7f3d0" font-size="12.5" font-weight="700" letter-spacing=".5">FREE CONSULTATION</text>
+  </g>
+  <text class="up d2" x="500" y="114" text-anchor="middle" fill="#ffffff" font-size="38" font-weight="800" letter-spacing="-.5">Let's build your next product</text>
+  <text class="up d3" x="500" y="148" text-anchor="middle" fill="#c7d2fe" font-size="17">Web apps · Mobile apps · SaaS · ERP · AI — from idea to launch</text>
+  <text class="up d4" x="500" y="198" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="600">📞 +91 79913 27022   •   ✉️ harendraprajapati72@gmail.com   •   🌐 nayaprayog.com</text>
+</svg>

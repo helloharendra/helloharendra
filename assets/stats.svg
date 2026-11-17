@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140" fill="none" role="img" aria-label="5+ years building software, 31 live solution demos, 10+ industries served, end-to-end web, mobile, cloud and AI delivery">
+  <style>
+    * { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .up { opacity: 0; animation: up .8s cubic-bezier(.2, .8, .2, 1) forwards; }
+    @keyframes up { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+    .d1 { animation-delay: .1s; } .d2 { animation-delay: .25s; } .d3 { animation-delay: .4s; } .d4 { animation-delay: .55s; }
+    .bar { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: grow 1s cubic-bezier(.2, .8, .2, 1) forwards; }
+    @keyframes grow { to { transform: scaleX(1); } }
+    .sweep { animation: sweep 6s ease-in-out 1.2s infinite; }
+    @keyframes sweep { 0% { transform: translateX(-300px); } 50%, 100% { transform: translateX(1300px); } }
+    .glow { animation: glow 3s ease-in-out infinite; }
+    @keyframes glow { 50% { stroke-opacity: .7; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; transform: none !important; } }
+  </style>
+  <defs>
+    <linearGradient id="num" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#a5b4fc"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366f1"/><stop offset=".5" stop-color="#ec4899"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#141a33"/><stop offset="1" stop-color="#0b1020"/></linearGradient>
+    <linearGradient id="streak" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="cards">
+      <rect x="1" y="6" width="233" height="128" rx="18"/><rect x="256" y="6" width="233" height="128" rx="18"/>
+      <rect x="511" y="6" width="233" height="128" rx="18"/><rect x="766" y="6" width="233" height="128" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g class="up d1">
+    <rect x="1" y="6" width="233" height="128" rx="18" fill="url(#card)"/>
+    <rect class="glow" x="1" y="6" width="233" height="128" rx="18" stroke="#818cf8" stroke-opacity=".25"/>
+    <rect class="bar" x="24" y="24" width="40" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="24" y="80" fill="url(#num)" font-size="40" font-weight="800">5+</text>
+    <text x="24" y="110" fill="#94a3b8" font-size="14">Years building software</text>
+  </g>
+  <g class="up d2">
+    <rect x="256" y="6" width="233" height="128" rx="18" fill="url(#card)"/>
+    <rect class="glow" x="256" y="6" width="233" height="128" rx="18" stroke="#818cf8" stroke-opacity=".25"/>
+    <rect class="bar" x="279" y="24" width="40" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="279" y="80" fill="url(#num)" font-size="40" font-weight="800">31</text>
+    <text x="279" y="110" fill="#94a3b8" font-size="14">Live solution demos</text>
+  </g>
+  <g class="up d3">
+    <rect x="511" y="6" width="233" height="128" rx="18" fill="url(#card)"/>
+    <rect class="glow" x="511" y="6" width="233" height="128" rx="18" stroke="#818cf8" stroke-opacity=".25"/>
+    <rect class="bar" x="534" y="24" width="40" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="534" y="80" fill="url(#num)" font-size="40" font-weight="800">10+</text>
+    <text x="534" y="110" fill="#94a3b8" font-size="14">Industries served</text>
+  </g>
+  <g class="up d4">
+    <rect x="766" y="6" width="233" height="128" rx="18" fill="url(#card)"/>
+    <rect class="glow" x="766" y="6" width="233" height="128" rx="18" stroke="#818cf8" stroke-opacity=".25"/>
+    <rect class="bar" x="789" y="24" width="40" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="789" y="78" fill="url(#num)" font-size="30" font-weight="800">End-to-End</text>
+    <text x="789" y="110" fill="#94a3b8" font-size="14">Web · Mobile · Cloud · AI</text>
+  </g>
+
+  <g clip-path="url(#cards)"><rect class="sweep" x="0" y="-20" width="200" height="180" fill="url(#streak)" transform="skewX(-20)"/></g>
+</svg>

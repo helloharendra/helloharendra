@@ -1,435 +1,256 @@
-# Harendra Prajapati
+<div align="center">
 
-### Full-Stack Software Engineer | Founder, Naya Prayog Technologies
+<img src="./assets/header.svg" width="100%" alt="Harendra Prajapati – Full-Stack Software Engineer and Founder of Naya Prayog Technologies" />
 
-**Building Scalable Web Applications, Mobile Apps, SaaS Platforms & AI-Powered Software Solutions**
+<a href="https://nayaprayog.com/"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=900&lines=Custom+ERP%2C+CRM+%26+Business+Software;Flutter+Android+%26+iOS+App+Development;E-commerce+%26+Food+Delivery+Platforms;School%2C+College+%26+LMS+Software;SaaS+%C2%B7+AI+%C2%B7+Business+Automation" alt="Custom ERP and CRM software, Flutter app development, e-commerce, food delivery, school and LMS software, SaaS and AI" /></a>
 
-<p align="left">
-  <a href="https://instagram.com/helloharendra.yt">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/helloharendra">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@helloharendra">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://stackoverflow.com/users/helloharendra">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://twitter.com/helloharendra">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.youtube.com/@HelloHarendra">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://github.com/sponsors/helloharendra">
-    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
-  </a>
-</p>
+### I help startups and growing businesses turn ideas into production-ready web apps, mobile apps and SaaS platforms — designed, built, launched and maintained by one accountable team.
 
-<img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<a href="https://wa.me/917991327022?text=Hi%20Harendra%2C%20I%20found%20you%20on%20GitHub%20and%20would%20like%20to%20discuss%20a%20project."><img src="https://img.shields.io/badge/WhatsApp-Discuss_your_project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp" /></a>
+<a href="mailto:harendraprajapati72@gmail.com?subject=Project%20enquiry%20from%20GitHub"><img src="https://img.shields.io/badge/Email-Get_a_free_quote-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email for a quote" /></a>
+<a href="https://nayaprayog.com/"><img src="https://img.shields.io/badge/Website-nayaprayog.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Naya Prayog Technologies website" /></a>
+<a href="https://linkedin.com/in/helloharendra"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
----
+<br/><br/>
 
-## About Me
+<img src="./assets/stats.svg" width="100%" alt="5+ years building software, 31 live solution demos, 10+ industries served, end-to-end web, mobile, cloud and AI" />
 
-I'm **Harendra Prajapati**, a Full-Stack Software Engineer and Founder of **Naya Prayog Technologies**, with 5+ years of hands-on experience in software development.
+</div>
 
-I specialize in designing and developing complete software products, from application architecture and backend engineering to mobile and web development, API integration, deployment, and maintenance.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-My experience includes building applications and platforms across multiple domains:
+## 👋 About Me
 
-- Food Delivery & Restaurant Management
-- E-commerce & Online Marketplaces
-- Logistics & Subscription Management
-- Education & Learning Management
-- Booking & Reservation Platforms
-- HR & Business Management Systems
-- SaaS Applications & Business Automation
+I'm **Harendra Prajapati**, a Full-Stack Software Engineer and the Founder of **[Naya Prayog Technologies](https://nayaprayog.com/)**, a custom software development company in India.
 
-I enjoy solving real-world business problems through practical software engineering, scalable architecture, reusable components, and maintainable code.
+For 5+ years I've been designing and shipping complete software products — from architecture and backend APIs to Flutter mobile apps, React / Next.js web apps, admin panels, deployment and long-term maintenance. My speciality is **multi-role business platforms**: customer, vendor, delivery partner, staff and admin apps that work together as one system.
 
-**My approach:** Understand the business problem, design the right solution, build reliable software, and deliver technology that creates measurable value.
+> **My approach:** understand the business problem first, design the right solution, build reliable software, and deliver technology that creates measurable value.
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## Founder — Naya Prayog Technologies
+## 🚀 What I Build
 
-I lead **Naya Prayog Technologies**, a software development and business automation company focused on helping startups, entrepreneurs, and businesses build custom digital products.
+<img src="./assets/services.svg" width="100%" alt="Services: business software, mobile apps, e-commerce, education software, SaaS and backend, AI and automation" />
 
-Our development capabilities include:
+<p align="center"><b>Expertise:</b> Custom software development · ERP & CRM software · POS billing software · Flutter app development · Android & iOS apps · E-commerce & multi-vendor marketplaces · Food & grocery delivery apps · School, college & LMS software · SaaS development · FastAPI & Node.js backends · AI integration</p>
 
-- Custom Software & SaaS Development
-- Web Application Development
-- Android & iOS App Development
-- Flutter Application Development
-- Backend & API Development
-- ERP, CRM & Business Management Software
-- E-commerce & Marketplace Development
-- AI, Machine Learning & Data Analytics
-- Workflow & Business Process Automation
-- Cloud Deployment & Software Maintenance
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-**Company Website:** https://nayaprayog.com/
+## 🖥️ Live Solution Demos
 
-**Company GitHub:** https://github.com/nayaprayogtechnology
+Every solution below is a **working demo with source code** — open the repository, see the screenshots, run it locally, and [contact me](https://wa.me/917991327022) for the complete, customised product with backend, admin panel and mobile apps.
 
-**Software Portfolio:** https://github.helloharendra.io
+### Web Platforms & Business Software
 
----
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/helloharendra/erp-software-development"><img src="https://raw.githubusercontent.com/helloharendra/erp-software-development/main/screenshots/1-dashboard.png" alt="ERP software dashboard" /></a>
+      <br/><b><a href="https://github.com/helloharendra/erp-software-development">ERP Software</a></b>
+      <br/>Sales, inventory, finance & HR in one system
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/helloharendra/pos-billing-software"><img src="https://raw.githubusercontent.com/helloharendra/pos-billing-software/main/screenshots/1-dashboard.png" alt="POS billing software" /></a>
+      <br/><b><a href="https://github.com/helloharendra/pos-billing-software">POS Billing Software</a></b>
+      <br/>Fast counter billing, GST, UPI & multi-branch
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/helloharendra/school-management-system"><img src="https://raw.githubusercontent.com/helloharendra/school-management-system/main/screenshots/1-dashboard.png" alt="School management system" /></a>
+      <br/><b><a href="https://github.com/helloharendra/school-management-system">School Management System</a></b>
+      <br/>Students, attendance, fees, exams & parents
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/helloharendra/learning-management-system-lms"><img src="https://raw.githubusercontent.com/helloharendra/learning-management-system-lms/main/screenshots/3-learn.png" alt="Learning management system course player" /></a>
+      <br/><b><a href="https://github.com/helloharendra/learning-management-system-lms">Learning Management System</a></b>
+      <br/>Courses, video lessons, quizzes & certificates
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/helloharendra/restaurant-management-software"><img src="https://raw.githubusercontent.com/helloharendra/restaurant-management-software/main/screenshots/3-kitchen.png" alt="Restaurant management kitchen display" /></a>
+      <br/><b><a href="https://github.com/helloharendra/restaurant-management-software">Restaurant Management Software</a></b>
+      <br/>Tables, KOT, kitchen display & billing
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/helloharendra/ecommerce-website-development"><img src="https://raw.githubusercontent.com/helloharendra/ecommerce-website-development/main/screenshots/1-home.png" alt="E-commerce website" /></a>
+      <br/><b><a href="https://github.com/helloharendra/ecommerce-website-development">E-commerce Website</a></b>
+      <br/>Storefront, cart, checkout & order management
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/helloharendra/property-listing-platform"><img src="https://raw.githubusercontent.com/helloharendra/property-listing-platform/main/screenshots/1-home.png" alt="Property listing platform" /></a>
+      <br/><b><a href="https://github.com/helloharendra/property-listing-platform">Property Listing Platform</a></b>
+      <br/>Listings, search filters, EMI calculator & leads
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/helloharendra/multi-vendor-food-delivery-software"><img src="https://raw.githubusercontent.com/helloharendra/multi-vendor-food-delivery-software/main/screenshots/1-home.png" alt="Multi-vendor food delivery software" /></a>
+      <br/><b><a href="https://github.com/helloharendra/multi-vendor-food-delivery-software">Multi-Vendor Food Delivery</a></b>
+      <br/>Customer, restaurant, rider & admin platform
+    </td>
+  </tr>
+</table>
 
-## Featured Real-World Projects
+### Mobile Apps (Flutter · Android & iOS)
 
-My development experience includes working on multi-role applications, business platforms, and end-to-end software systems.
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/helloharendra/food-delivery-app-development"><img src="https://raw.githubusercontent.com/helloharendra/food-delivery-app-development/main/screenshots/1-home.png" alt="Food delivery app" /></a>
+      <br/><b><a href="https://github.com/helloharendra/food-delivery-app-development">Food Delivery App</a></b>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/helloharendra/grocery-delivery-app"><img src="https://raw.githubusercontent.com/helloharendra/grocery-delivery-app/main/screenshots/1-home.png" alt="Grocery delivery app" /></a>
+      <br/><b><a href="https://github.com/helloharendra/grocery-delivery-app">Grocery Delivery App</a></b>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/helloharendra/healthcare-app-development"><img src="https://raw.githubusercontent.com/helloharendra/healthcare-app-development/main/screenshots/3-doctor-booking.png" alt="Healthcare doctor booking app" /></a>
+      <br/><b><a href="https://github.com/helloharendra/healthcare-app-development">Healthcare App</a></b>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/helloharendra/dating-app-development"><img src="https://raw.githubusercontent.com/helloharendra/dating-app-development/main/screenshots/1-discover.png" alt="Dating app" /></a>
+      <br/><b><a href="https://github.com/helloharendra/dating-app-development">Dating App</a></b>
+    </td>
+  </tr>
+</table>
 
-### Food Delivery & Restaurant Platforms
+### All 31 Solutions by Industry
 
-| Project | Technology |
+| Industry | Ready-to-customise solutions |
 |---|---|
-| I-Eat Food Delivery App | Flutter, Firebase |
-| D Delicious Food Delivery App | Flutter, Node.js |
-| Apni Angithi Food Delivery App | Flutter, Node.js |
+| 🏢 **Business & Retail** | [ERP Software](https://github.com/helloharendra/erp-software-development) · [CRM Software](https://github.com/helloharendra/crm-software-development) · [POS Billing](https://github.com/helloharendra/pos-billing-software) · [Inventory Management](https://github.com/helloharendra/inventory-management-software) · [Retail Management](https://github.com/helloharendra/retail-management-software) · [Custom Business Management](https://github.com/helloharendra/custom-business-management-software) |
+| 🎓 **Education** | [School Management](https://github.com/helloharendra/school-management-system) · [College Management](https://github.com/helloharendra/college-management-system) · [Education ERP](https://github.com/helloharendra/education-erp-software) · [Student Management](https://github.com/helloharendra/student-management-system) · [School Fee Management](https://github.com/helloharendra/school-fee-management-software) · [Coaching Institute Management](https://github.com/helloharendra/coaching-institute-management-software) · [LMS](https://github.com/helloharendra/learning-management-system-lms) |
+| 🍔 **Food & Restaurant** | [Restaurant Management](https://github.com/helloharendra/restaurant-management-software) · [Online Food Ordering](https://github.com/helloharendra/online-food-ordering-system) · [Food Delivery App](https://github.com/helloharendra/food-delivery-app-development) · [Multi-Vendor Food Delivery](https://github.com/helloharendra/multi-vendor-food-delivery-software) |
+| 🛒 **E-commerce** | [E-commerce Website](https://github.com/helloharendra/ecommerce-website-development) · [Fashion & Clothing Store](https://github.com/helloharendra/fashion-clothing-ecommerce-website) · [Single-Vendor Platform](https://github.com/helloharendra/single-vendor-ecommerce-platform) · [Multi-Vendor Marketplace](https://github.com/helloharendra/multi-vendor-ecommerce-marketplace) · [Grocery Delivery App](https://github.com/helloharendra/grocery-delivery-app) |
+| 🏥 **Healthcare & Pharmacy** | [Healthcare App](https://github.com/helloharendra/healthcare-app-development) · [Medicine Delivery App](https://github.com/helloharendra/medicine-delivery-app-development) · [Pharmacy Management](https://github.com/helloharendra/pharmacy-management-software) |
+| 🏠 **Real Estate** | [Property Listing Platform](https://github.com/helloharendra/property-listing-platform) · [Real Estate Management](https://github.com/helloharendra/real-estate-management-software) |
+| 🥛 **Dairy & Subscriptions** | [Dairy Management](https://github.com/helloharendra/dairy-management-software) · [Milk Delivery Management](https://github.com/helloharendra/milk-delivery-management-software) |
+| 💬 **Social & Consumer Apps** | [Dating App](https://github.com/helloharendra/dating-app-development) · [Social Networking App](https://github.com/helloharendra/social-networking-app-development) |
 
-Experience includes customer applications, administration panels, and order management workflows.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### Business & E-commerce Platforms
+## 💼 Client Projects Delivered
 
-| Project | Technology |
-|---|---|
-| Monosage Motors | Next.js, FastAPI |
-| NayaPrayog.com | Web Development |
+Real products built for clients and businesses. Source code is private under client agreements.
 
-### Logistics & Subscription Platforms
-
-**Nature Farm — Milk Delivery Application**
-
-- Customer Application — Flutter
-- Delivery Partner Application — Flutter
-- Admin Web Panel — Flutter
-- Backend & Application Services — Firebase
-
-Experience with subscription-based delivery workflows and multi-role application architecture.
-
-### Learning & Streaming Platforms
-
-**Lock Head — Tutorial & Learning Application**
-
-- Student, Trainer & Admin Applications
-- Flutter — Android, iOS & Web
-- FastAPI Backend
-- Video Streaming
-- Live Chat Support
-
-### Booking & Reservation Platforms
-
-**FarmhouseBazaar.com**
-
-- User Application — Flutter
-- Admin Application — Flutter
-- Backend — FastAPI
-
-### Business Management Systems
-
-**HRQuill — HR Management System**
-
-Experience with business-focused software and employee management workflows.
-
----
-
-## Complete Software Project Portfolio
-
-> **Data limitation statement**: The following tables are based on publicly verifiable repositories in the search results and the projects listed in your previous README. **The `nayaprayogtechnology` organization's repositories are not included** (no data in search results). After obtaining the company organization's repository list, they should be merged into the corresponding categories.
-
-### Food Delivery & Multi-Role Platforms
-
-| Project | Description | Tech Stack | Repository |
+| Project | Industry | What was delivered | Stack |
 |---|---|---|---|
-| Complete Food Delivery App | Multi-role food delivery system: user, rider, seller apps + Super Admin web portal; supports delivery/dine-in/takeaway, live order tracking, OTP login, multi-outlet management | Flutter, Node.js, MySQL | [helloharendra/Complete-Food-delivery-App](https://github.com/helloharendra/Complete-Food-delivery-App) |
-| Complete Food Delivery App Flutter | Food delivery application containing rider app, seller app, user app, and Super Admin portal | Flutter, Firebase | [helloharendra/Complete-Food-Delivery-App-Flutter](https://github.com/helloharendra/Complete-Food-Delivery-App-Flutter) |
-| I-Eat Food Delivery App | Food delivery application (listed in previous README, pending repository verification) | Flutter, Firebase | To be supplemented |
-| D Delicious Food Delivery App | Food delivery application (listed in previous README, pending verification) | Flutter, Node.js | To be supplemented |
-| Apni Angithi Food Delivery App | Food delivery application (listed in previous README, pending verification) | Flutter, Node.js | To be supplemented |
-| Food Order Management Mini Project | Food order management mini project | Pending verification | [helloharendra/Food-Oroder-management-mini-project](https://github.com/helloharendra/Food-Oroder-management-mini-project) |
-| Food Wastage Management System | Food waste management system (PHP) | PHP | [helloharendra/Food-wastage-management-system-](https://github.com/helloharendra/Food-wastage-management-system-) |
+| **Nature Farm** | Milk subscription & delivery | Customer app, delivery partner app and admin web panel | Flutter · Firebase |
+| **Lock Head** | E-learning & streaming | Student, trainer and admin apps with video streaming and live chat | Flutter · FastAPI |
+| **FarmhouseBazaar.com** | Booking & reservations | User app and admin app for farmhouse bookings | Flutter · FastAPI |
+| **I-Eat** | Food delivery | Customer app, admin panel and order management | Flutter · Firebase |
+| **D Delicious** | Food delivery | Customer app, admin panel and order management | Flutter · Node.js |
+| **Apni Angithi** | Food delivery | Customer app, admin panel and order management | Flutter · Node.js |
+| **Monosage Motors** | Automotive business | Business website with custom backend | Next.js · FastAPI |
+| **HRQuill** | HR & workforce | HR and employee management system | Web application |
+| **NayaPrayog.com** | Company & academy | Company and academy website | Next.js |
 
-### E-Commerce & UI Templates
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-| Project | Description | Tech Stack | Repository |
-|---|---|---|---|
-| Complete E-Commerce App Flutter | Modern e-commerce UI template: home page, product listings, shopping cart, etc.; supports Android/iOS/Web; status: in-progress | Flutter, Dart | [helloharendra/Complete-E-commerce-App-Flutter](https://github.com/helloharendra/Complete-E-commerce-App-Flutter) |
-| Sofa E-Commerce Application | Sofa e-commerce UI template | Flutter | [helloharendra/Sofa-ecommerce-Application](https://github.com/helloharendra/Sofa-ecommerce-Application) |
+## ⭐ Open-Source Highlights
 
-### AI & Computer Vision
-
-| Project | Description | Tech Stack | Repository |
-|---|---|---|---|
-| Face Mask Detection | Computer vision-based face mask detection | Python | [helloharendra/Face-Mask-Detection-Using-Computer-Vision-Python](https://github.com/helloharendra/Face-Mask-Detection-Using-Computer-Vision-Python) |
-| Age and Gender Detection | Computer vision-based age and gender detection | Python | [helloharendra/Age-And-Gender-Detection-Using-Computer-Vision](https://github.com/helloharendra/Age-And-Gender-Detection-Using-Computer-Vision) |
-| Tic-Tac-Toe ML | Tic-tac-toe based on machine learning | Python | [helloharendra/Tic-Tac-Toe-game_Machine_Learning](https://github.com/helloharendra/Tic-Tac-Toe-game_Machine_Learning) |
-
-### Flutter Components & Learning
-
-| Project | Description | Repository |
+| Project | What it is | Stack |
 |---|---|---|
-| Agora Video Calling Flutter | Agora video call integration | [helloharendra/Agora-Video-calling-Flutter](https://github.com/helloharendra/Agora-Video-calling-Flutter) |
-| Login with OTP Flutter | Firebase OTP login | [helloharendra/login_with_otp_flutter](https://github.com/helloharendra/login_with_otp_flutter) |
-| Flutter Firebase Email Auth | Firebase email authentication | [helloharendra/Flutter-firebase-Email-Authentication](https://github.com/helloharendra/Flutter-firebase-Email-Authentication) |
-| Todo App | Flutter + Node.js todo application | [helloharendra/todo_app](https://github.com/helloharendra/todo_app) |
-| API Calling Flutter | REST API calls in Flutter | [helloharendra/API-calling-Flutter](https://github.com/helloharendra/API-calling-Flutter) |
-| Dart Programming | Dart basics to advanced practice | [helloharendra/Dart_Programming](https://github.com/helloharendra/Dart_Programming) |
-| Flutter Responsive Builder | Responsive layout builder | [helloharendra/Flutter_Responsive_Builder](https://github.com/helloharendra/Flutter_Responsive_Builder) |
+| [Complete Food Delivery App](https://github.com/helloharendra/Complete-Food-delivery-App) | Multi-role food delivery system — user, rider and seller apps plus a Super Admin portal, with delivery / dine-in / takeaway, live order tracking, OTP login and multi-outlet management | Flutter · Node.js · MySQL |
+| [Food Delivery App (Firebase)](https://github.com/helloharendra/Complete-Food-Delivery-App-Flutter) | Rider, seller and user apps with a Super Admin portal | Flutter · Firebase |
+| [E-commerce App](https://github.com/helloharendra/Complete-E-commerce-App-Flutter) | Modern e-commerce UI for Android, iOS and web | Flutter · Dart |
+| [Agora Video Calling](https://github.com/helloharendra/Agora-Video-calling-Flutter) | Real-time video calling integration | Flutter · Agora |
+| [Face Mask Detection](https://github.com/helloharendra/Face-Mask-Detection-Using-Computer-Vision-Python) | Real-time face mask detection with computer vision | Python · OpenCV |
 
-### Python & Data Science
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-| Project | Description | Repository |
-|---|---|---|
-| Python Data Science | Data science practice | [helloharendra/Python_Data_Science](https://github.com/helloharendra/Python_Data_Science) |
-| Machine Learning MCA | Machine learning coursework/practice | [helloharendra/Machine_Learning_Mca](https://github.com/helloharendra/Machine_Learning_Mca) |
-| Game Using Python | Python mini-game (keyboard control) | [helloharendra/Game_Using_Python](https://github.com/helloharendra/Game_Using_Python) |
-| Grocery Management System | Console-based grocery management system | [helloharendra/Grocert-management-system-mini-project-on-console](https://github.com/helloharendra/Grocert-management-system-mini-project-on-console) |
-| Python Heart Touching | Python turtle graphics drawing | [helloharendra/Python_Heart_Touching](https://github.com/helloharendra/Python_Heart_Touching) |
+## 🛠️ Tech Stack
 
-### Java & Backend Fundamentals
+<div align="center">
 
-| Project | Description | Repository |
-|---|---|---|
-| Database Connectivity Java | JDBC database connection code | [helloharendra/Database_Connectivity_Java](https://github.com/helloharendra/Database_Connectivity_Java) |
-| Java AWT Programs | Java AWT GUI practice | [helloharendra/Java_awt_programs](https://github.com/helloharendra/Java_awt_programs) |
-| JSP Project | JSP web project | [helloharendra/JSP-Project](https://github.com/helloharendra/JSP-Project) |
-| Login Using Java Servlet | Java Servlet login | [helloharendra/Login_Using_java_Servlet](https://github.com/helloharendra/Login_Using_java_Servlet) |
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,react,nextjs,ts,js,tailwind,html,css,py,fastapi&perline=13" width="100%" alt="Flutter, Dart, Android, iOS, React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Python, FastAPI" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,firebase,aws,docker,linux,sklearn,git,github,figma&perline=13" width="100%" alt="Node.js, Express, PostgreSQL, MySQL, MongoDB, Firebase, AWS, Docker, Linux, scikit-learn, Git, GitHub, Figma" />
 
-### Web Frontend & Templates
+<p><b>Mobile:</b> Flutter · Dart · Android · iOS &nbsp;|&nbsp; <b>Web:</b> React · Next.js · TypeScript · Tailwind &nbsp;|&nbsp; <b>Backend:</b> Python · FastAPI · Node.js · Express &nbsp;|&nbsp; <b>Data & Cloud:</b> PostgreSQL · MySQL · MongoDB · Firebase · AWS · Docker &nbsp;|&nbsp; <b>AI:</b> scikit-learn · NumPy · Pandas</p>
 
-| Project | Description | Repository |
-|---|---|---|
-| Web Templates | HTML/CSS template collection | [helloharendra/Web-Tamplates-](https://github.com/helloharendra/Web-Tamplates-) |
-| Portfolio (HTML) | Responsive portfolio website | [helloharendra/Portfoilo](https://github.com/helloharendra/Portfoilo) |
-| Portfolio Flutter | Flutter portfolio version | [helloharendra/Portfolio-Flutter](https://github.com/helloharendra/Portfolio-Flutter) |
+</div>
 
-### Business & Booking Platforms (from previous README, pending repository verification)
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-| Project | Description | Tech Stack | Status |
-|---|---|---|---|
-| Nature Farm – Milk Delivery Application | User app, rider app, admin web panel; subscription-based milk delivery | Flutter, Firebase | To be verified |
-| Lock Head – Tutorial & Learning Platform | Student/trainer/admin roles; video streaming and live chat | Flutter, FastAPI | To be verified |
-| FarmhouseBazaar.com | Farmhouse booking system | Flutter, FastAPI | To be verified |
-| HRQuill | HR management system | Pending verification | To be verified |
-| Monosage Motors | Enterprise website | Next.js, FastAPI | To be verified |
-| NayaPrayog.com | Company and academy website | Next.js | To be verified |
+## 🤝 How We Work Together
 
----
+<img src="./assets/process.svg" width="100%" alt="How we work: 1 Discover, 2 Design, 3 Build, 4 Launch and Support" />
+<br/>
 
-## Featured Projects (Highlight)
+**Why clients work with me**
 
-### Complete Food Delivery App
+- **End-to-end ownership** — requirements, architecture, APIs, apps, deployment and support from one team
+- **Multi-role system expertise** — user, vendor, rider, trainer and admin roles with secure, role-based access
+- **API-first, scalable architecture** — clean, maintainable FastAPI and Node.js backends
+- **Practical delivery** — working, testable increments over over-engineering
 
-A multi-role food delivery solution covering user, rider, seller apps, and Super Admin web portal. Features include delivery/dine-in/takeaway options, Google Maps live order tracking, OTP login, multi-outlet management, and Excel report export. This demonstrates end-to-end product architecture capability from mobile to management backend.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-**Tech**: Flutter · Node.js · MySQL  
-**Repository**: [helloharendra/Complete-Food-delivery-App](https://github.com/helloharendra/Complete-Food-delivery-App)
+## 📈 GitHub Activity
 
-### Complete E-Commerce App Flutter
+<div align="center">
 
-A modern e-commerce UI template that includes core screens such as home page, product listings, and shopping cart, supporting Android, iOS, and Web. Suitable as a starting point for e-commerce product development.
+<img src="https://streak-stats.demolab.com/?user=helloharendra&theme=tokyonight&hide_border=true&border_radius=12&card_width=1000" width="100%" alt="GitHub contribution streak" />
 
-**Tech**: Flutter · Dart  
-**Repository**: [helloharendra/Complete-E-commerce-App-Flutter](https://github.com/helloharendra/Complete-E-commerce-App-Flutter)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=helloharendra&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" alt="GitHub contribution activity graph" />
 
-### Face Mask Detection Using Computer Vision
+</div>
 
-A computer vision project implementing face mask detection, demonstrating practical application of Python and machine learning in image recognition tasks.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-**Tech**: Python  
-**Repository**: [helloharendra/Face-Mask-Detection-Using-Computer-Vision-Python](https://github.com/helloharendra/Face-Mask-Detection-Using-Computer-Vision-Python)
+## 🎓 Education & Certifications
 
----
+- **MCA — Data Science & AI**, BBD University, Lucknow (in collaboration with IBM)
+- **Google** Certification in Python
+- **IBM** Certification in Java
 
-## Software Development Portfolio
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-Explore software solutions and development projects by Naya Prayog Technologies.
+<div align="center">
 
-| Category | Explore |
-|---|---|
-| ERP & Business Management | [GitHub Repositories](https://github.com/nayaprayogtechnology) |
-| E-commerce & Marketplaces | [GitHub Repositories](https://github.com/nayaprayogtechnology) |
-| Food Delivery & Restaurant Software | [GitHub Repositories](https://github.com/nayaprayogtechnology) |
-| Education Management Software | [GitHub Repositories](https://github.com/nayaprayogtechnology) |
-| Healthcare & Pharmacy Solutions | [GitHub Repositories](https://github.com/nayaprayogtechnology) |
-| Mobile & Web Applications | [GitHub Repositories](https://github.com/nayaprayogtechnology) |
+## 💬 Let's Build Your Next Product
 
-**Explore the complete portfolio:** https://github.helloharendra.io
+<img src="./assets/footer.svg" width="100%" alt="Let's build your next product – WhatsApp +91 79913 27022, email harendraprajapati72@gmail.com, website nayaprayog.com" />
 
----
+<br/>
 
-## Technical Skills & Technology Stack
+**Have an idea for an app, a SaaS product or business software? Let's talk — the first consultation is free.**
 
-### Mobile Application Development
+### 📩 Contact & Business Enquiries
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</p>
+<a href="https://wa.me/917991327022?text=Hi%20Harendra%2C%20I%20found%20you%20on%20GitHub%20and%20would%20like%20to%20discuss%20a%20project."><img src="https://img.shields.io/badge/WhatsApp-%2B91_79913_27022-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +91 7991327022" /></a>
+<a href="mailto:harendraprajapati72@gmail.com?subject=Project%20enquiry%20from%20GitHub"><img src="https://img.shields.io/badge/Email-harendraprajapati72%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email harendraprajapati72@gmail.com" /></a>
+<br/>
+<a href="https://nayaprayog.com/"><img src="https://img.shields.io/badge/Company-nayaprayog.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Naya Prayog Technologies" /></a>
+<a href="https://helloharendra.github.io"><img src="https://img.shields.io/badge/Portfolio-helloharendra.github.io-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/helloharendra"><img src="https://img.shields.io/badge/LinkedIn-helloharendra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-### Backend & API Development
+**📧 Email:** [harendraprajapati72@gmail.com](mailto:harendraprajapati72@gmail.com) &nbsp;•&nbsp; **💬 WhatsApp:** [+91 79913 27022](https://wa.me/917991327022)<br/>
+**🏢 Company:** [Naya Prayog Technologies](https://nayaprayog.com/) &nbsp;•&nbsp; **🌐 Portfolio:** [helloharendra.github.io](https://helloharendra.github.io)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
+### 🌍 Follow My Work
 
-### Frontend & Web Development
+<a href="https://www.youtube.com/@HelloHarendra"><img src="https://img.shields.io/badge/YouTube-@HelloHarendra-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://instagram.com/helloharendra.yt"><img src="https://img.shields.io/badge/Instagram-helloharendra.yt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://medium.com/@helloharendra"><img src="https://img.shields.io/badge/Medium-@helloharendra-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://twitter.com/helloharendra"><img src="https://img.shields.io/badge/X-@helloharendra-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+### ☕ Support My Work
 
-### Databases & Cloud
+If my open-source projects helped you, consider supporting my work.
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<a href="https://www.buymeacoffee.com/helloharendra"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+<a href="https://github.com/sponsors/helloharendra"><img src="https://img.shields.io/badge/GitHub_Sponsors-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
 
-### Data Science & AI
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=helloharendra&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
 
-### Development Tools & Practices
+<b>Building ideas into impactful software, one solution at a time.</b>
 
-- Git & GitHub
-- REST API Design & Integration
-- Authentication & Authorization
-- Role-Based Access Control
-- Reusable Components & Application Architecture
-- Database Design & Optimization
-- Application Debugging & Performance Optimization
-- Deployment & Cloud Infrastructure
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:312e81,100:0f172a&height=120&section=footer&animation=twinkling" width="100%" alt="" />
 
----
-
-## Engineering Approach
-
-- **End-to-end ownership**: From requirement breakdown, architecture design, API contracts, to frontend implementation and deployment
-- **Multi-role system design**: Experienced in building user/admin/rider/trainer permission systems, familiar with authentication and role-based access
-- **API-first**: Using FastAPI / Node.js to build maintainable REST interfaces, emphasizing contract clarity and error handling
-- **Practical delivery**: Prioritizing deliverable, testable product increments over over-engineering
-
----
-
-## Current Focus
-
-I'm continuously exploring and improving my skills in:
-
-- Scalable Flutter Application Architecture
-- High-Performance Backend Systems with FastAPI and Node.js
-- Clean Architecture and Reusable Software Components
-- SaaS Product Engineering
-- AI Integration in Business Applications
-- Data Science, Analytics & Intelligent Automation
-- Application Security, Performance & Maintainability
-- Cloud Infrastructure and Deployment
-
----
-
-## Education & Certifications
-
-**Education**
-
-- Master of Computer Applications (MCA) — Data Science & AI, BBD University, Lucknow (IBM collaboration)
-
-**Certifications**
-
-- Google Certification in Python
-- IBM Certification in Java
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=helloharendra&show_icons=true&theme=radical&hide_border=true" alt="Harendra's GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloharendra&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helloharendra&theme=radical&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-### Contribution Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=helloharendra&theme=react-dark&hide_border=true)](https://github.com/helloharendra)
-
----
-
-## Let's Build Something Great Together
-
-I'm open to collaborating with startups, founders, entrepreneurs, agencies, and businesses looking for reliable software development expertise.
-
-### Areas I Can Help With
-
-- Custom Software & SaaS Product Development
-- Flutter Android & iOS Application Development
-- Backend Development with FastAPI & Node.js
-- React & Next.js Web Application Development
-- ERP, CRM & Business Automation Systems
-- E-commerce & Multi-Vendor Marketplace Platforms
-- AI-Powered Applications & Data Solutions
-- Software Architecture & Technical Consulting
-
-### Contact & Business Enquiries
-
-<p>
-  <a href="https://nayaprayog.com/">
-    <img src="https://img.shields.io/badge/Company_Website-nayaprayog.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.helloharendra.io">
-    <img src="https://img.shields.io/badge/Portfolio-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://wa.me/917991327022">
-    <img src="https://img.shields.io/badge/WhatsApp-Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:harendraprajapati72@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-**Email:** harendraprajapati72@gmail.com
-
-**WhatsApp:** +91 7991327022
-
-**Company:** [Naya Prayog Technologies](https://nayaprayog.com/)
-
-**Portfolio:** [github.helloharendra.io](https://github.helloharendra.io)
-
----
-
-## Support My Work
-
-If you find my work useful, consider supporting my open-source contributions and development journey.
-
-<a href="https://www.buymeacoffee.com/helloharendra">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-</a>
-
----
-
-<p align="center">
-  <b>Building ideas into impactful software, one solution at a time.</b>
-</p>
+</div>

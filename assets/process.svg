@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" fill="none" role="img" aria-label="How we work: 1 Discover, 2 Design, 3 Build, 4 Launch and Support">
+  <style>
+    * { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .line { stroke-dasharray: 750; stroke-dashoffset: 750; animation: draw 6s cubic-bezier(.6, 0, .3, 1) infinite; }
+    @keyframes draw { 0% { stroke-dashoffset: 750; opacity: 1; } 55% { stroke-dashoffset: 0; opacity: 1; } 85% { stroke-dashoffset: 0; opacity: 1; } 100% { stroke-dashoffset: 0; opacity: 0; } }
+    .ring { transform-box: fill-box; transform-origin: center; opacity: 0; animation: ring 6s ease-out infinite; }
+    .r2 { animation-delay: 1.1s; } .r3 { animation-delay: 2.2s; } .r4 { animation-delay: 3.3s; }
+    @keyframes ring { 0% { transform: scale(1); opacity: .9; } 25% { transform: scale(1.8); opacity: 0; } 100% { opacity: 0; } }
+    .up { opacity: 0; animation: up .8s cubic-bezier(.2, .8, .2, 1) forwards; }
+    @keyframes up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+    .d1 { animation-delay: .1s; } .d2 { animation-delay: .3s; } .d3 { animation-delay: .5s; } .d4 { animation-delay: .7s; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; transform: none !important; } .line { stroke-dashoffset: 0; } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="230" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#17153b"/></linearGradient>
+    <linearGradient id="accent" x1="125" y1="0" x2="875" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#6366f1"/><stop offset=".5" stop-color="#ec4899"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="999" height="229" rx="22" fill="url(#bg)" stroke="#818cf8" stroke-opacity=".2"/>
+
+  <line x1="125" y1="62" x2="875" y2="62" stroke="#334155" stroke-width="3" stroke-linecap="round"/>
+  <line class="line" x1="125" y1="62" x2="875" y2="62" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+
+  <g class="up d1">
+    <circle class="ring" cx="125" cy="62" r="26" stroke="#818cf8" stroke-width="2"/>
+    <circle cx="125" cy="62" r="26" fill="#111735" stroke="#6366f1" stroke-width="2"/>
+    <text x="125" y="69" text-anchor="middle" fill="#fff" font-size="19" font-weight="800">1</text>
+    <text x="125" y="124" text-anchor="middle" fill="#f8fafc" font-size="18" font-weight="700">Discover</text>
+    <text x="125" y="152" text-anchor="middle" fill="#94a3b8" font-size="13.5">Business goals, users,</text>
+    <text x="125" y="173" text-anchor="middle" fill="#94a3b8" font-size="13.5">scope, timeline &amp; budget</text>
+  </g>
+  <g class="up d2">
+    <circle class="ring r2" cx="375" cy="62" r="26" stroke="#c084fc" stroke-width="2"/>
+    <circle cx="375" cy="62" r="26" fill="#111735" stroke="#a855f7" stroke-width="2"/>
+    <text x="375" y="69" text-anchor="middle" fill="#fff" font-size="19" font-weight="800">2</text>
+    <text x="375" y="124" text-anchor="middle" fill="#f8fafc" font-size="18" font-weight="700">Design</text>
+    <text x="375" y="152" text-anchor="middle" fill="#94a3b8" font-size="13.5">Architecture, database</text>
+    <text x="375" y="173" text-anchor="middle" fill="#94a3b8" font-size="13.5">&amp; premium UI/UX</text>
+  </g>
+  <g class="up d3">
+    <circle class="ring r3" cx="625" cy="62" r="26" stroke="#f472b6" stroke-width="2"/>
+    <circle cx="625" cy="62" r="26" fill="#111735" stroke="#ec4899" stroke-width="2"/>
+    <text x="625" y="69" text-anchor="middle" fill="#fff" font-size="19" font-weight="800">3</text>
+    <text x="625" y="124" text-anchor="middle" fill="#f8fafc" font-size="18" font-weight="700">Build</text>
+    <text x="625" y="152" text-anchor="middle" fill="#94a3b8" font-size="13.5">Iterative delivery with</text>
+    <text x="625" y="173" text-anchor="middle" fill="#94a3b8" font-size="13.5">regular progress demos</text>
+  </g>
+  <g class="up d4">
+    <circle class="ring r4" cx="875" cy="62" r="26" stroke="#fbbf24" stroke-width="2"/>
+    <circle cx="875" cy="62" r="26" fill="#111735" stroke="#f59e0b" stroke-width="2"/>
+    <text x="875" y="69" text-anchor="middle" fill="#fff" font-size="19" font-weight="800">4</text>
+    <text x="875" y="124" text-anchor="middle" fill="#f8fafc" font-size="18" font-weight="700">Launch &amp; Support</text>
+    <text x="875" y="152" text-anchor="middle" fill="#94a3b8" font-size="13.5">Store release, deployment,</text>
+    <text x="875" y="173" text-anchor="middle" fill="#94a3b8" font-size="13.5">maintenance &amp; scaling</text>
+  </g>
+</svg>
