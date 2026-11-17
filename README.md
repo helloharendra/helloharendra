@@ -5,7 +5,7 @@
 **Building Scalable Web Applications, Mobile Apps, SaaS Platforms & AI-Powered Software Solutions**
 
 <p align="left">
-  <a href="https://instagram.com/helloharendra">
+  <a href="https://instagram.com/helloharendra.yt">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/helloharendra">
