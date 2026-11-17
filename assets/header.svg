@@ -63,18 +63,19 @@
     <text x="84" y="63" fill="#a7f3d0" font-size="13.5" font-weight="600">Available for new projects</text>
   </g>
 
-  <text class="up d2" x="48" y="138" fill="url(#name)" font-size="48" font-weight="800" letter-spacing="-1">Harendra Prajapati</text>
-  <rect class="grow" x="50" y="156" width="190" height="4" rx="2" fill="url(#accent)"/>
-  <text class="up d3" x="50" y="196" fill="#e0e7ff" font-size="20" font-weight="600">Full-Stack Software Engineer</text>
-  <text class="up d4" x="50" y="224" fill="#94a3b8" font-size="16">Founder, Naya Prayog Technologies</text>
+  <text class="up d2" x="48" y="130" fill="url(#name)" font-size="48" font-weight="800" letter-spacing="-1">Harendra Prajapati</text>
+  <rect class="grow" x="50" y="146" width="190" height="4" rx="2" fill="url(#accent)"/>
+  <text class="up d3" x="50" y="184" fill="#ffffff" font-size="21" font-weight="700">Expert Full-Stack Developer</text>
+  <text class="up d3" x="50" y="210" font-size="16" font-weight="600"><tspan fill="#c7d2fe">Software Engineer</tspan><tspan fill="#818cf8">  ·  </tspan><tspan fill="#f9a8d4">AI Engineer</tspan></text>
+  <text class="up d4" x="50" y="234" fill="#94a3b8" font-size="15">Founder, Naya Prayog Technologies</text>
 
   <!-- capability chips -->
   <g font-size="13" font-weight="600">
-    <g class="up d5"><rect x="50" y="252" width="92" height="30" rx="15" fill="#6366f1" fill-opacity=".18" stroke="#818cf8" stroke-opacity=".5"/><text x="96" y="272" text-anchor="middle" fill="#c7d2fe">Web Apps</text></g>
-    <g class="up d6"><rect x="150" y="252" width="108" height="30" rx="15" fill="#ec4899" fill-opacity=".15" stroke="#f472b6" stroke-opacity=".5"/><text x="204" y="272" text-anchor="middle" fill="#fbcfe8">Mobile Apps</text></g>
-    <g class="up d7"><rect x="266" y="252" width="64" height="30" rx="15" fill="#06b6d4" fill-opacity=".15" stroke="#22d3ee" stroke-opacity=".5"/><text x="298" y="272" text-anchor="middle" fill="#a5f3fc">SaaS</text></g>
-    <g class="up d8"><rect x="338" y="252" width="98" height="30" rx="15" fill="#f59e0b" fill-opacity=".15" stroke="#fbbf24" stroke-opacity=".5"/><text x="387" y="272" text-anchor="middle" fill="#fde68a">ERP &amp; CRM</text></g>
-    <g class="up d9"><rect x="444" y="252" width="94" height="30" rx="15" fill="#10b981" fill-opacity=".15" stroke="#34d399" stroke-opacity=".5"/><text x="491" y="272" text-anchor="middle" fill="#a7f3d0">AI &amp; Data</text></g>
+    <g class="up d5"><rect x="50" y="256" width="92" height="30" rx="15" fill="#6366f1" fill-opacity=".18" stroke="#818cf8" stroke-opacity=".5"/><text x="96" y="276" text-anchor="middle" fill="#c7d2fe">Web Apps</text></g>
+    <g class="up d6"><rect x="150" y="256" width="108" height="30" rx="15" fill="#ec4899" fill-opacity=".15" stroke="#f472b6" stroke-opacity=".5"/><text x="204" y="276" text-anchor="middle" fill="#fbcfe8">Mobile Apps</text></g>
+    <g class="up d7"><rect x="266" y="256" width="64" height="30" rx="15" fill="#06b6d4" fill-opacity=".15" stroke="#22d3ee" stroke-opacity=".5"/><text x="298" y="276" text-anchor="middle" fill="#a5f3fc">SaaS</text></g>
+    <g class="up d8"><rect x="338" y="256" width="98" height="30" rx="15" fill="#f59e0b" fill-opacity=".15" stroke="#fbbf24" stroke-opacity=".5"/><text x="387" y="276" text-anchor="middle" fill="#fde68a">ERP &amp; CRM</text></g>
+    <g class="up d9"><rect x="444" y="256" width="94" height="30" rx="15" fill="#10b981" fill-opacity=".15" stroke="#34d399" stroke-opacity=".5"/><text x="491" y="276" text-anchor="middle" fill="#a7f3d0">AI &amp; Data</text></g>
   </g>
 
   <!-- code window -->
